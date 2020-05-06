@@ -9,19 +9,20 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>My First Post - Your awesome title</title>
-<meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description. ">
+<!-- begin _includes/seo.html --><title>My First Post - Site Title</title>
+<meta name="description" content="">
 
+
+  <meta name="author" content="Collin Ching">
 
 
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="Your awesome title">
-<meta property="og:title" content="Your awesome title">
+<meta property="og:site_name" content="Site Title">
+<meta property="og:title" content="Site Title">
 <meta property="og:url" content="http://localhost:4000/">
 
 
-  <meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description. ">
 
 
 
@@ -32,6 +33,9 @@
 
 
 
+  
+
+  
 
 
 <link rel="canonical" href="http://localhost:4000/">
@@ -44,7 +48,7 @@
     "@context": "https://schema.org",
     
       "@type": "Person",
-      "name": null,
+      "name": "Collin Ching",
       "url": "http://localhost:4000/"
     
   }
@@ -58,7 +62,7 @@
 <!-- end _includes/seo.html -->
 
 
-<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Your awesome title Feed">
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Site Title Feed">
 
 <!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -117,7 +121,7 @@
       <nav id="site-nav" class="greedy-nav">
         
         <a class="site-title" href="/">
-          Your awesome title
+          Site Title
           
         </a>
         <ul class="visible-links"></ul>
@@ -150,8 +154,13 @@
 
   <div class="author__content">
     
-      <h3 class="author__name" itemprop="name"></h3>
+      <h3 class="author__name" itemprop="name">Collin Ching</h3>
     
+    
+      <div class="author__bio" itemprop="description">
+        <p>Statistics and other stuff</p>
+
+      </div>
     
   </div>
 
@@ -159,7 +168,29 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">San Francisco</span>
+        </li>
+      
 
+      
+        
+          
+        
+          
+        
+          
+            <li><a href="https://twitter.com/collindching" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span></a></li>
+          
+        
+          
+        
+          
+            <li><a href="https://github.com/collindching" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
+          
+        
+          
+        
       
 
       
@@ -246,7 +277,7 @@
     
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="/2020/05/04/My-First-Post.html" rel="permalink">My First Post
+        <a href="/My-First-Post/" rel="permalink">My First Post
 </a>
       
     </h2>
@@ -286,12 +317,26 @@
     
 
     
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
 
     <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2020 Your awesome title. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2020 Collin Ching. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>
