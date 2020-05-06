@@ -2,9 +2,7 @@
 layout: single
 ---
 
-# Why collinearity is a problem in your regression model
-
-## Unpacking a real example based on a recent marketing project
+### Unpacking a real example based on a recent marketing project
 
 Scenario walkthrough
 - Need to build inferential model
