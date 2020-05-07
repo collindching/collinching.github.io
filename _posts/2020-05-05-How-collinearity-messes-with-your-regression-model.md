@@ -1,7 +1,7 @@
 ---
 layout: single
 ---
-### Unpacking a real-world example from marketing
+### And how to address it 
 
 Scenario walkthrough
 - Need to build inferential model
