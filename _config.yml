@@ -88,7 +88,7 @@ analytics:
 author:
   name             : #"Collin Ching"
   avatar           : "./assets/images/profile.png"
-  bio              : "Data scientist learning through writing. Thoughts on statistics and more."
+  bio              : "Learning via writing -- thoughts on statistics and other things."
   location         : "San Francisco"
   email            :
   links:
