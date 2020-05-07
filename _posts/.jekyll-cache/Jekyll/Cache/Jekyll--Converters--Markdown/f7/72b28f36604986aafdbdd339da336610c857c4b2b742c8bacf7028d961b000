@@ -1,6 +1,4 @@
-<h1 id="why-collinearity-is-a-problem-in-your-regression-model">Why collinearity is a problem in your regression model</h1>
-
-<h2 id="unpacking-a-real-example-based-on-a-recent-marketing-project">Unpacking a real example based on a recent marketing project</h2>
+I";<h3 id="unpacking-a-real-example-based-on-a-recent-marketing-project">Unpacking a real example based on a recent marketing project</h3>
 
 <p>Scenario walkthrough</p>
 <ul>
@@ -24,3 +22,4 @@
   <li>Look at a scatterplot between the key problem variables</li>
   <li>Test a strategy for</li>
 </ul>
+:ET
