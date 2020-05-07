@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "contrast" # "dirt" # "default", "air", "aqua", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Writing to Learn"
+title                    : "Collin Ching"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Collin Ching"
@@ -86,9 +86,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Collin Ching"
+  name             : #"Collin Ching"
   avatar           : "./assets/images/profile.png"
-  bio              : "Notes on statistics and other stuff"
+  bio              : "Writing to learn -- my thoughts on statistics and other stuff."
   location         : "San Francisco"
   email            :
   links:

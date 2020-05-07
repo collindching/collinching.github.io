@@ -1,7 +1,7 @@
 ---
 layout: single
 ---
-### And how to address it 
+### And what to do about it 
 
 Scenario walkthrough
 - Need to build inferential model
