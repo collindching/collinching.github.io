@@ -92,15 +92,15 @@ author:
   location         : "San Francisco"
   email            :
   links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/collindching"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/collindching/"
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@collindching"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/collindching"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/collindching
