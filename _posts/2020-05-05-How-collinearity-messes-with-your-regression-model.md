@@ -1,8 +1,7 @@
 ---
 layout: single
 ---
-
-### Unpacking a real example based on a recent marketing project
+### Unpacking a real-world example from marketing
 
 Scenario walkthrough
 - Need to build inferential model
