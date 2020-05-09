@@ -35,6 +35,10 @@ Notes
 
 Notes
 
+#### Residualize yoru stuff
+
+Notes
+
 #### Merging variables together
 
 Notes
@@ -45,6 +49,7 @@ Here is the framework I would use for
 - Provide minimal working evidence of collinearity issue
 - Map potential solutions (ranked from simple to complex)
 - Test each solution out, documenting your steps and results for each one
+
 
 
 
