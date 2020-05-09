@@ -1,4 +1,91 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-08T09:39:04-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Collin Ching</title><author><name>{&quot;name&quot;=&gt;nil, &quot;avatar&quot;=&gt;&quot;./assets/images/profile.png&quot;, &quot;bio&quot;=&gt;&quot;Learning via writing -- thoughts on statistics and other things.&quot;, &quot;location&quot;=&gt;&quot;San Francisco&quot;, &quot;email&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Twitter&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-twitter-square&quot;, &quot;url&quot;=&gt;&quot;https://twitter.com/collindching&quot;}, {&quot;label&quot;=&gt;&quot;LinkedIn&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-linkedin&quot;, &quot;url&quot;=&gt;&quot;https://www.linkedin.com/in/collindching/&quot;}, {&quot;label&quot;=&gt;&quot;Medium&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-medium&quot;, &quot;url&quot;=&gt;&quot;https://medium.com/@collindching&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;, &quot;url&quot;=&gt;&quot;https://github.com/collindching&quot;}]}</name></author><entry><title type="html">Why The Coefficient Signs In Your Regression Are Wrong</title><link href="http://localhost:4000/why-the-coefficient-signs-in-your-regression-are-wrong/" rel="alternate" type="text/html" title="Why The Coefficient Signs In Your Regression Are Wrong" /><published>2020-05-05T00:00:00-07:00</published><updated>2020-05-05T00:00:00-07:00</updated><id>http://localhost:4000/why-the-coefficient-signs-in-your-regression-are-wrong</id><content type="html" xml:base="http://localhost:4000/why-the-coefficient-signs-in-your-regression-are-wrong/">&lt;h3 id=&quot;and-what-you-can-do-about-it&quot;&gt;And what you can do about it&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-09T10:37:02-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Collin Ching</title><author><name>{&quot;name&quot;=&gt;nil, &quot;avatar&quot;=&gt;&quot;./assets/images/profile.png&quot;, &quot;bio&quot;=&gt;&quot;Learning via writing -- thoughts on statistics and other things.&quot;, &quot;location&quot;=&gt;&quot;San Francisco&quot;, &quot;email&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Twitter&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-twitter-square&quot;, &quot;url&quot;=&gt;&quot;https://twitter.com/collindching&quot;}, {&quot;label&quot;=&gt;&quot;LinkedIn&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-linkedin&quot;, &quot;url&quot;=&gt;&quot;https://www.linkedin.com/in/collindching/&quot;}, {&quot;label&quot;=&gt;&quot;Medium&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-medium&quot;, &quot;url&quot;=&gt;&quot;https://medium.com/@collindching&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;, &quot;url&quot;=&gt;&quot;https://github.com/collindching&quot;}]}</name></author><entry><title type="html">Why The Coefficient Signs In Your Regression Are Wrong</title><link href="http://localhost:4000/why-the-coefficient-signs-in-your-regression-are-wrong/" rel="alternate" type="text/html" title="Why The Coefficient Signs In Your Regression Are Wrong" /><published>2020-05-05T00:00:00-07:00</published><updated>2020-05-05T00:00:00-07:00</updated><id>http://localhost:4000/why-the-coefficient-signs-in-your-regression-are-wrong</id><content type="html" xml:base="http://localhost:4000/why-the-coefficient-signs-in-your-regression-are-wrong/">&lt;h4 id=&quot;and-what-you-can-do-about-it&quot;&gt;And what you can do about it&lt;/h4&gt;
+
+&lt;h3 id=&quot;taking-an-example-from-marketing&quot;&gt;Taking an example from marketing&lt;/h3&gt;
+
+&lt;p&gt;Imagine you build a model for your company’s marketing team, and in the stakeholder meeting, you present the following output:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;For this output, create correlated marketing data where sales volume is target variable&lt;/li&gt;
+  &lt;li&gt;Create two variables that are highly correlated, and also have a similar effect&lt;/li&gt;
+  &lt;li&gt;Then show outputs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;How will your stakeholders react? While your model says this… does it actually make sense? If you do show this result, expect to receive a harsh berating.&lt;/p&gt;
+
+&lt;h3 id=&quot;suspect-collinearity&quot;&gt;Suspect collinearity&lt;/h3&gt;
+
+&lt;p&gt;If you are working on a regression model and&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Variables that should have positive coefficients are negative (or vice versa),&lt;/li&gt;
+  &lt;li&gt;Your coefficients change significantly (i.e. flip signs) as you add/remove predictors&lt;/li&gt;
+  &lt;li&gt;Variables that should be significant don’t present as significant&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Then you should immediately suspect collinearity.&lt;/p&gt;
+
+&lt;p&gt;At the same time, if the model does not match your intuition, make sure to challenge your assumptions as well. At times, your model may show you counterintuitive information that challenges your beliefs – but is actually accurate. My suggestion is to always keep your assumptions and beliefs in check, and keep an open mind where possible.&lt;/p&gt;
+
+&lt;h3 id=&quot;solutions&quot;&gt;Solutions&lt;/h3&gt;
+
+&lt;h4 id=&quot;do-you-have-the-option-of-removing-correlated-predictors&quot;&gt;Do you have the option of removing correlated predictors?&lt;/h4&gt;
+
+&lt;p&gt;Notes&lt;/p&gt;
+
+&lt;h4 id=&quot;will-regularized-regression-work-in-your-context&quot;&gt;Will regularized regression work in your context?&lt;/h4&gt;
+
+&lt;p&gt;Notes&lt;/p&gt;
+
+&lt;h4 id=&quot;merging-variables-together&quot;&gt;Merging variables together&lt;/h4&gt;
+
+&lt;p&gt;Notes&lt;/p&gt;
+
+&lt;h3 id=&quot;a-recap-on-the-framework-for-approaching-collinearity-and-a-few-additional-working-example&quot;&gt;A recap on the framework for approaching collinearity, and a few additional working example&lt;/h3&gt;
+
+&lt;p&gt;Here is the framework I would use for&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Provide minimal working evidence of collinearity issue&lt;/li&gt;
+  &lt;li&gt;Map potential solutions (ranked from simple to complex)&lt;/li&gt;
+  &lt;li&gt;Test each solution out, documenting your steps and results for each one&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Provide simple evidence that collinearity is in fact the culprit. Do this by presenting a model in which your coefficients make sense, another where they don’t, and then show the correlations and VIF for variables that are wrong.&lt;/p&gt;
+
+&lt;p&gt;Literature review:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web.stanford.edu/class/stats202/content/lec5-condensed.pdf&quot;&gt;Variable selection via clustering&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.stat.columbia.edu/~gelman/stuff_for_blog/oh_no_I_got_the_wrong_sign.pdf&quot;&gt;Oh No! I Got the Wrong Sign! What Should I do?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stats.stackexchange.com/questions/1580/regression-coefficients-that-flip-sign-after-including-other-predictors&quot;&gt;Regression signs that flip after including other predictors&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S2314717218300059&quot;&gt;Correlation based feature selection with clustering for high dimensional data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kellogg.northwestern.edu/faculty/dranove/htm/dranove/coursepages/Mgmt%20469/choosing%20variables.pdf&quot;&gt;Choosing the Right Variables for the Right Hand Side&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stats.stackexchange.com/questions/38093/how-to-deal-with-high-correlation-among-predictors-in-multiple-regression&quot;&gt;How to deal with high correlation among predictors in multiple regression&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/&quot;&gt;Multicollinearity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stats.stackexchange.com/questions/32472/collapsing-combining-two-variables-into-one-for-analysis&quot;&gt;Collapsing two variables into one for analysis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stats.stackexchange.com/questions/198271/regression-coefficients-seem-to-have-the-wrong-sign-can-i-force-them-to-have-a&quot;&gt;StackExchange&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Scenario walkthrough&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Need to build inferential model&lt;/li&gt;
+  &lt;li&gt;Signs were not coming out right, and as I added variables they were flipping&lt;/li&gt;
+  &lt;li&gt;Needed to change the values&lt;/li&gt;
+  &lt;li&gt;Tested variable of interest&lt;/li&gt;
+  &lt;li&gt;Pulled variables out, one at a time,&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Recap&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Generate a hypothesis for why it’s looking different&lt;/li&gt;
+  &lt;li&gt;Confirm hypothesis by playing with data&lt;/li&gt;
+  &lt;li&gt;Attempting different solutions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you suspect collinearity&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Run a quick correlation table on your input variables&lt;/li&gt;
+  &lt;li&gt;Look at a scatterplot between the key problem variables&lt;/li&gt;
+  &lt;li&gt;Test a strategy for&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;avatar&quot;=&gt;&quot;./assets/images/profile.png&quot;, &quot;bio&quot;=&gt;&quot;Learning via writing -- thoughts on statistics and other things.&quot;, &quot;location&quot;=&gt;&quot;San Francisco&quot;, &quot;email&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Twitter&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-twitter-square&quot;, &quot;url&quot;=&gt;&quot;https://twitter.com/collindching&quot;}, {&quot;label&quot;=&gt;&quot;LinkedIn&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-linkedin&quot;, &quot;url&quot;=&gt;&quot;https://www.linkedin.com/in/collindching/&quot;}, {&quot;label&quot;=&gt;&quot;Medium&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-medium&quot;, &quot;url&quot;=&gt;&quot;https://medium.com/@collindching&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;, &quot;url&quot;=&gt;&quot;https://github.com/collindching&quot;}]}</name></author><summary type="html">And what you can do about it</summary></entry><entry><title type="html">Why Your Regression Coefficients Have The Wrong Sign</title><link href="http://localhost:4000/why-your-regression-coefficients-have-the-wrong-sign/" rel="alternate" type="text/html" title="Why Your Regression Coefficients Have The Wrong Sign" /><published>2020-05-05T00:00:00-07:00</published><updated>2020-05-05T00:00:00-07:00</updated><id>http://localhost:4000/why-your-regression-coefficients-have-the-wrong-sign</id><content type="html" xml:base="http://localhost:4000/why-your-regression-coefficients-have-the-wrong-sign/">&lt;h3 id=&quot;and-what-you-can-do-about-it&quot;&gt;And what you can do about it&lt;/h3&gt;
 
 &lt;p&gt;Literature review:&lt;/p&gt;
 &lt;ul&gt;
