@@ -3,7 +3,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                    : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.19.2"
 minimal_mistakes_skin    : "contrast" # "dirt" # "default", "air", "aqua", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -18,7 +18,7 @@ url                      :
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "collindching/collindching.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "./images/c.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -87,7 +87,7 @@ analytics:
 # Site Author
 author:
   name             : #"Collin Ching"
-  avatar           : "./assets/images/profile.png"
+  avatar           : "./images/profile.png"
   bio              : "Learning via writing -- thoughts on statistics and other things."
   location         : "San Francisco"
   email            :
@@ -266,3 +266,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      mathjax: true
