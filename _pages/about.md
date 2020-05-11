@@ -5,9 +5,9 @@ permalink: /about/
 
 ## Who I am
 
-I leverage statistics and programming to help companies make better decisions. I'm equally versed in Python and R, and use Excel pretty extensively. 
+I leverage statistics, programming, and my thinking cap to drive business decisions. I'm equally versed in Python and R, and am handy with Excel. 
 
-I studied statistics at UCLA for my bachelors, and am continuing my education here. 
+I received my bachelors in statistics from UCLA and am continuing my education here. 
 
 Currently, I'm a contract marketing decision scientist at a FAANG company in the Bay. 
 
