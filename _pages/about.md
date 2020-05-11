@@ -5,9 +5,9 @@ permalink: /about/
 
 ## Who I am
 
-I leverage statistics, programming, and my thinking cap to drive business decisions. I'm equally versed in Python and R, and am handy with Excel. 
+I use statistics and programming to help businesses make decisions. I'm equally versed in R and Python, and am handy with Excel. 
 
-I received my bachelors in statistics from UCLA and am continuing my education here. 
+I received my bachelors in statistics from UCLA, and consider this website a continuation of my education.
 
 Currently, I'm a contract marketing decision scientist at a FAANG company in the Bay. 
 
@@ -17,9 +17,9 @@ Currently, I'm a contract marketing decision scientist at a FAANG company in the
 
 After stumbling upon the above quote, I knew that I wanted to write more. I started building this blog a day later. 
 
-I believe writing will help me think more deeply about data science, personal philosophy, current events, and, frankly, everything. 
+My plan is to use this website to help me think more deeply about data science, personal philosophy, current events, and, frankly, everything. 
 
-Here are my personal reasons for writing, in order of priority. 
+In order of priority, here are my reasons for writing. 
 
 1. Actively process new information 
 2. Define personal ideas and opinions 
@@ -27,4 +27,14 @@ Here are my personal reasons for writing, in order of priority.
 4. Practice communication 
 5. Have a portfolio
 
-And my girlfriend.
+
+
+
+
+
+
+
+
+
+
+(And my girlfriend.)
