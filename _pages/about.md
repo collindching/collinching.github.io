@@ -5,7 +5,7 @@ permalink: /about/
 
 ## Who I am
 
-I leverage statistics and programming to help companies make better decisions. I'm equally versed in Python and R, and haved used Excel pretty extensively as well. 
+I leverage statistics and programming to help companies make better decisions. I'm equally versed in Python and R, and use Excel pretty extensively. 
 
 I studied statistics at UCLA for my bachelors, and am continuing my education here. 
 
@@ -27,3 +27,4 @@ Here are my personal reasons for writing, in order of priority.
 4. Practice communication 
 5. Have a portfolio
 
+And my girlfriend.
