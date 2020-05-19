@@ -5,9 +5,13 @@ permalink: /about/
 
 ## Who I am
 
-Hi, I'm Collin and I am a data scientist. I help businesses make decisions through well-informed statistical analysis. I use R and Python on a daily basis, and am pretty handy with Excel too. I'm currently a contract marketing decision scientist at FAANG.
+Hey. I'm Collin and I am a data scientist. In other words, I help businesses make decisions through well-informed statistical analysis. I use R and Python on a daily basis, and am pretty handy with Excel too. 
 
-I received my bachelors in statistics from UCLA in 2018, and don't have immediate plans for furthering my formal education. However, I consider this website to be continuation of my learning journey. In my free time, I'll be learning statistics and collecting my notes and thoughts here.
+I received my bachelors in statistics from UCLA in 2018, and don't have immediate plans for furthering my formal education. 
+
+However, I consider this website to be continuation of my learning journey. In my free time, I'll be learning statistics and collecting notes and thoughts here.
+
+Currently, I'm a contract marketing decision scientist at FAANG.
 
 Outside of work and study, I like to cook, play table tennis, and catch up with friends.
 
