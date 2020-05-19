@@ -5,7 +5,7 @@ permalink: /about/
 
 ## Who I am
 
-Hey. I'm Collin and I am a data scientist. In other words, I help businesses make decisions through well-informed statistical analysis. I use R and Python on a daily basis, and am pretty handy with Excel too. 
+Hey. I'm Collin and I am a data scientist. I help businesses make decisions through well-informed statistical analysis. I use R and Python on a daily basis, and am pretty handy with Excel too. 
 
 I received my bachelors in statistics from UCLA in 2018, and don't have immediate plans for furthering my formal education. 
 
