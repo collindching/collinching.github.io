@@ -11,7 +11,7 @@ I received my bachelors in statistics from UCLA in 2018, and don't have immediat
 
 However, I consider this website to be continuation of my learning journey. In my free time, I'll be learning statistics and collecting notes and thoughts here.
 
-Currently, I'm a contract marketing decision scientist at FAANG.
+Currently, I'm a contract marketing decision scientist at FANG.
 
 Outside of work and study, I like to cook, play table tennis, and catch up with friends.
 
