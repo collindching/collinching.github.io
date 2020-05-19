@@ -7,7 +7,7 @@ Lean in when things get difficult. These are the times when you learn the most.
 
 Rely on yourself to get things done at the end of the day. 
 
-The more you iterate, the more you improve. 
+When training, the more iterations you do, the more you improve. Analogously with a project, the more iterations you do, the greater chances of success. Think of each iteration as a small percentage increase in your success probability. 
 
 If you can develop resilience to failure and discouragement, your ability to grow is limitless.
 
