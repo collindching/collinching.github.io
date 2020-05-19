@@ -4,4 +4,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/regression-signs/",
         "teaser": null
+      },{
+        "title": "Comparing P-Values and VIFs",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/pvals-and-vifs/",
+        "teaser": null
       }]

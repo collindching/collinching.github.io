@@ -4,7 +4,7 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Sample Posts"
+  - title: "R Cookbook"
     url: /cookbooks/R/
   # - title: "Sample Collections"
   #   url: /collection-archive/
