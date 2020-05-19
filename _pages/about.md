@@ -30,15 +30,3 @@ In order of priority, here are my reasons for writing.
 3. Keep a live record of my knowledge 
 4. Practice communication 
 5. Have a portfolio
-
-
-
-
-
-
-
-
-
-
-
-(And my girlfriend.)

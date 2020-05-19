@@ -89,7 +89,7 @@ author:
   name             : #"Collin Ching"
   avatar           : "./images/profile.png"
   bio              : "Welcome to my blog! <br><br>
-                     <strong>Keywords</strong>: Statistics, data projects, meta-learning"
+                     <strong>Keywords</strong>: Statistics, data science, meta-learning"
   location         : "San Francisco"
   email            : collindching@gmail.com
   links:
