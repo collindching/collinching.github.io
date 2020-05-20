@@ -3,9 +3,16 @@ title: " "
 permalink: /thoughts/
 ---
 
+## Personal tenets
+
+- Don't take things personally
+
+
 ## Perseverance
 
-**Iterations:** When training, the more iterations you do, the more you improve. Analogously with a project, the more iterations you do, the greater chances of success. If each iteration is a small percentage increase in your probability of success, it's in your best interest to iterate as much as possible. 
+**Iterations:** Iterate as much as possible. The more you iterate, the greater your chances of succes. 
+
+One caveat: make sure you aren't blindly iterating. You should regularly evaluate all possible options, to ensure you're iterating in the right direction. 
 
 ## Working under pressure
 
