@@ -3,10 +3,13 @@ title: " "
 permalink: /thoughts/
 ---
 
-## Principles
+## My Principles
 
-- Always do your best
-- Don't take things personally
+- Know and accept yourself
+- Give your best
+- Be thorough; avoid wishful thinking
+- Break rules if it helps you achieve your goal
+- Do not take things personally
 
 ## Perseverance
 
