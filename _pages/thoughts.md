@@ -3,10 +3,10 @@ title: " "
 permalink: /thoughts/
 ---
 
-## Personal tenets
+## Principles
 
+- Always do your best
 - Don't take things personally
-
 
 ## Perseverance
 
