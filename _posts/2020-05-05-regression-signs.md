@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "Why your regression coefficients have the wrong sign"
-subtitle: "And what you can do about it"
-excerpt: "And what you can do about it"
+subtitle: "Addressing collinearity in practice"
+excerpt: "Addressing collinearity in practice"
 ---
 
 Imagine you build a model for your company's marketing team, and in the stakeholder meeting, you present the following output:
