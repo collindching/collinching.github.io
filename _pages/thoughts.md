@@ -7,8 +7,9 @@ permalink: /thoughts/
 
 - Know and accept yourself
 - Give your best
-- Be thorough; avoid wishful thinking
-- Break rules if it helps you achieve your goal
+- Assume nothing
+- Resist wishful thinking
+- Break rules to reach your goals
 - Do not take things personally
 
 ## Perseverance
