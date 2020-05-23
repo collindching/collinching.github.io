@@ -3,14 +3,13 @@ title: " "
 permalink: /thoughts/
 ---
 
-## My Principles
+## Principles
 
-- Know and accept yourself
-- Give your best
-- Assume nothing
-- Resist wishful thinking
-- Break rules to reach your goals
-- Do not take things personally
+- Have specific goals
+- Have a plan
+- Think realistically
+- Don't give up
+- Don't take things personally
 
 ## Perseverance
 
