@@ -6,7 +6,7 @@ permalink: /thoughts/
 ## Principles
 
 - Have specific goals
-- Be calm, have a plan
+- Be calm, invest time in planning
 - Think realistically
 - Approach challenges as opportunities to learn
 - Don't give up
