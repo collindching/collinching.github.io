@@ -7,7 +7,8 @@ permalink: /thoughts/
 
 - Have specific goals
 - Have a plan
-- Think realistically
+- Thrive outside your comfort zone
+- But think realistically
 - Don't give up
 - Don't take things personally
 
