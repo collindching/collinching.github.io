@@ -12,6 +12,13 @@ permalink: /thoughts/
 - Don't give up
 - Don't take things personally
 
+## Problem solving
+
+1. Describe
+2. Decompose
+3. Strategize
+4. Adjust
+
 ## Perseverance
 
 **Iterations:** Iterate as much as possible. The more you iterate, the greater your chances of succes. 
