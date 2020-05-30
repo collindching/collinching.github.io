@@ -3,41 +3,43 @@ title: " "
 permalink: /thoughts/
 ---
 
-## Principles
+## Guidelines
 
-- Have specific goals
-- Be calm, invest time in planning
-- Think realistically
-- Approach challenges as opportunities to learn
-- Don't give up
-- Don't take things personally
+- Dream big, and think long-term
+- Understand context
+- Set specific goals 
+- Be tenacious
+- Make good plans
+- Take nothing personally
 
-## Problem solving
+## Problem solving strategies
 
-1. Describe
-2. Decompose
-3. Strategize
-4. Adjust
+Framework for problem solving -- spend time on each step
+
+1. Describe (understand)
+2. Strategize (plan, decompose)
+3. Implement (do it)
+4. Adjust (review)
+
+Invest time in developing context and understanding details of problem. And don't be discouraged if a solution doesn't work -- this is how you learn
 
 ## Perseverance
 
-**Iterations:** Iterate as much as possible. The more you iterate, the greater your chances of succes. 
+Iterate as much as possible. The more you iterate, the greater your chances of succes. 
 
-One caveat: make sure you aren't blindly iterating. You should regularly evaluate all possible options, to ensure you're iterating in the right direction. 
+After each iteration, review what went right and what didn't so you can calibrate the next iteration.
+
+If you continue to persevere, you will eventually find the solution.
 
 ## Working under pressure
 
-**Embracing challenge:** Lean in when things get difficult. Challenges make for the best learning opportunities.
+Even though you may be pressed for time, stay calm. Give yourself time to think, strategize, execute, and review. Don't pass of your work without checking it.
 
-**Be self-reliant:** Rely on yourself to get things done at the end of the day. Leave nothing to chance or wishful thinking.
+Moreover, see pressure as an opportunity to test different strategies. If you lean in when things get difficult, you're turning challenges into useful experience.
 
 ## Failure
 
-**Resilience:** If you can develop resilience to failure and discouragement, your ability to grow is limitless.
+Never be discouraged. You only stop growing when you get discouraged and give up. 
 
-**Fail until success:** You have only failed when you give up. Everything else is a learning experience.
-
-## Creativity
-
-**Creativity 101:** Creativity is a slippery word and I don't like its connotations. But if you are urged to be creative or "think outside the box", you should first know your fundamentals well. 
+If you continue to pick yourself up and learn from experiences, you will grow and succeed.
 
