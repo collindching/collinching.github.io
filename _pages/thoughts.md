@@ -14,14 +14,16 @@ permalink: /thoughts/
 
 ## Problem solving strategies
 
-Framework for problem solving -- spend time on each step
+Framework for problem solving -- spend time on each step.
 
 1. Describe (understand)
 2. Strategize (plan, decompose)
 3. Implement (do it)
 4. Adjust (review)
 
-Invest time in developing context and understanding details of problem. And don't be discouraged if a solution doesn't work -- this is how you learn
+Invest time in developing context and understanding details of problem. And don't be discouraged if a solution doesn't work -- this is how you learn.
+
+If a problem becomes too large, decompose it into smaller steps. The benefits of this are twofold. First, tackling substeps helps you manage complexity. Secondly, you create more progress markers, which helps you maintain morale.
 
 ## Perseverance
 

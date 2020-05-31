@@ -5,15 +5,13 @@ permalink: /about/
 
 ## Who I am
 
-Hey. I'm Collin and I am a data scientist. I help businesses make decisions through well-informed statistical analysis. I use R and Python on a daily basis, and am pretty handy with Excel too. 
+I'm Collin, a data scientist born and raised in the Bay Area. I studied statistics at UCLA and graduated in 2018. 
 
-I received my bachelors in statistics from UCLA in 2018, and don't have immediate plans for furthering my formal education. 
+I'm a contract marketing decision scientist at FANG, where I build marketing mix models. Before this, I studied data science at Metis.
 
-However, I consider this website to be continuation of my learning journey. In my free time, I'll be learning statistics and collecting notes and thoughts here.
+Currently, I'm focused on optimizing my technical skills and career capital. The goal is to leverage these for autonomy and social impact later on.  
 
-Currently, I'm a contract marketing decision scientist at FANG.
-
-Outside of work and study, I like to cook, play table tennis, and catch up with friends.
+Outside of work, I like to cook, watch Netflix, and play table tennis and other sports.
 
 ## Motivations for blogging
 
