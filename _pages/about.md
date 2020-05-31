@@ -5,13 +5,13 @@ permalink: /about/
 
 ## Who I am
 
-I'm Collin, a data scientist born and raised in the Bay Area. I studied statistics at UCLA and graduated in 2018. 
+I'm Collin, a data scientist born and raised in the Bay Area. I studied statistics at UCLA, graduating in 2018. 
 
-I'm a contract marketing decision scientist at FANG, where I build marketing mix models. Before this, I studied data science at Metis.
+I'm currently a contract marketing decision scientist at FANG, where I build marketing mix models. Before this, I studied data science at Metis.
 
-Currently, I'm focused on optimizing my technical skills and career capital. The goal is to leverage these for autonomy and social impact later on.  
+Currently, I'm focused on optimizing my technical skills, writing skills, and career capital. The goal is to leverage these for autonomy and social impact later.  
 
-Outside of work, I like to cook, watch Netflix, and play table tennis and other sports.
+Outside of work, I like to cook, watch Netflix, and play table tennis.
 
 ## Motivations for blogging
 
@@ -19,7 +19,7 @@ Outside of work, I like to cook, watch Netflix, and play table tennis and other 
 
 After stumbling upon the above quote, I knew that I wanted to write more. I started building this blog a day later. 
 
-My plan is to use this website to help me think more deeply about data science, personal philosophy, current events, and, frankly, everything. 
+My plan is to use this website to help me organize and concretize thoughts on statistics, data science, philosophy, etc.
 
 In order of priority, here are my reasons for writing. 
 
