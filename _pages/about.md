@@ -9,7 +9,7 @@ I'm Collin, a data scientist born and raised in the Bay Area. I studied statisti
 
 I'm currently a contract marketing decision scientist at FANG, where I build marketing mix models. Before this, I studied data science at Metis.
 
-Currently, I'm focused on optimizing my technical skills, writing skills, and career capital. The goal is to leverage these for autonomy and social impact later.  
+At this stage of life, my focus is on optimizing my technical skills, communication ability, and career capital. The goal is to leverage these for autonomy and social impact later.  
 
 Outside of work, I like to cook, watch Netflix, and play table tennis.
 
