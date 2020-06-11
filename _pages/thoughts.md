@@ -28,7 +28,9 @@ As you develop context, take stock of available information, and work that has a
 
 Limit unnecessary cognitive load by discarding information that's irrelevant to the problem. 
 
-If a problem becomes too large, decompose it into smaller steps. This helps you manage complexity and keep up morale.
+If a problem becomes too large, decompose it into smaller steps. This helps you manage complexity and morale.
+
+If a problem is fairly complex, solve the simplest version of that problem, then iteratively increase in complexity.
 
 If a solution attempt doesn't work. Analyze why it didn't work. How far off was your solution? Will you arrive at the solution with some minor tweaks? Are there are alternative ways to come to the solution?
 
