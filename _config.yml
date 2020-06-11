@@ -88,8 +88,7 @@ analytics:
 author:
   name             : #"Collin Ching"
   avatar           : "./images/profile.png"
-  bio              : "Data scientist, amateur investor, and student of the game. <br><br>
-                     <strong>Keywords</strong>: Statistics, data science, meta-learning"
+  bio              : "Student and data scientist"
   location         : "San Francisco"
   email            : collindching@gmail.com
   links:
