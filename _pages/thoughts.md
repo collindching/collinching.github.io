@@ -22,11 +22,15 @@ Framework for problem solving -- spend time on each step.
 3. Implement (do it)
 4. Adjust (review)
 
-Invest time in developing context and understanding details of problem. And don't be discouraged if a solution doesn't work -- this is how you learn.
+Invest time in developing context and understanding details of problem. Then state your problem and goal verbally and explicitly.
 
-If a problem becomes too large, decompose it into smaller steps. The benefits of this are twofold. First, tackling substeps helps you manage complexity. Secondly, you create more progress markers, which helps you maintain morale.
+As you develop context, take stock of available information, and work that has already been done.
 
-Limit unnecessary cognitive load. 
+Limit unnecessary cognitive load by discarding information that's irrelevant to the problem. 
+
+If a problem becomes too large, decompose it into smaller steps. This helps you manage complexity and keep up morale.
+
+If a solution attempt doesn't work. Analyze why it didn't work. How far off was your solution? Will you arrive at the solution with some minor tweaks? Are there are alternative ways to come to the solution?
 
 ## Perseverance
 
@@ -40,7 +44,7 @@ If you continue to persevere, you will eventually find the solution.
 
 Even though you may be pressed for time, stay calm. Give yourself time to think, strategize, execute, and review. Don't pass of your work without checking it.
 
-Moreover, see pressure as an opportunity to test different strategies. If you lean in when things get difficult, you're turning challenges into useful experience.
+Moreover, see pressure as an opportunity to test different strategies. By leaning in when things get difficult, you take advantage of challenges to test character and strategic thinking.
 
 ## Failure
 

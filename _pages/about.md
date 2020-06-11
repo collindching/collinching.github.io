@@ -9,9 +9,9 @@ I'm Collin, a data scientist from the Bay Area. I studied statistics at UCLA, an
 
 I'm currently a contract decision scientist at Facebook, where I analyze returns on marketing investments through [marketing mix modeling](https://en.wikipedia.org/wiki/Marketing_mix_modeling). Before this, I studied data science at Metis.
 
-In my 20s, my focus is on optimizing my technical skills, writing ability, and investing know-how. I plant o leverage leverage these for autonomy and social impact in my 30s, when I have a clearer picture of what I want to work on.  
+In my 20s, my focus is on optimizing my technical skills, writing ability, and investing know-how. In my 30s, I plan to leverage these for autonomy and social impact, once I have a clearer idea of what I want to work on.  
 
-Outside of work, I like to cook, watch show, and play table tennis.
+Outside of work, I like to cook, watch shows, and play table tennis.
 
 ## Motivations for blogging
 
