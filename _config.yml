@@ -88,7 +88,7 @@ analytics:
 author:
   name             : #"Collin Ching"
   avatar           : "./images/profile.png"
-  bio              : "Student and data scientist"
+  bio              : "Notes on data science and learning"
   location         : "San Francisco"
   email            : collindching@gmail.com
   links:
