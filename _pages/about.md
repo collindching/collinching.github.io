@@ -21,5 +21,9 @@ Writing forces me to think more rigorously than I usually do. As I improve my te
 4. Implement: Carry out your plan.
 5. Adjust: Analyze why your strategy did or didn't work. Assess the difference between your result and a workable solution. Determine whether to make a minor tweak, or big direction change. Consider alternate ways to arrive at a solution.
 
-## [Getting rich](https://twitter.com/naval/status/1002103360646823936)
+## Becoming rich
+
+Having a job simply means you rent out your time and skills to someone in exchange for a salary. But your employer's incentive is to profit off your labor, getting the most value out of your time and skills for the lowest price. Moreover you can only work a limited number of hours each day. So while you can make a good living as a skilled worker, your earnings will be capped. The solution to this, as [Naval Ravikant](https://twitter.com/naval/status/1002103360646823936) explains, is to own businesses and have agents working for you. 
+
+If your goal is to get rich, you should own income-generating assets. You can either create them or invest in them. You should also have agents working for you. These agents can be humans or computers. 
 
