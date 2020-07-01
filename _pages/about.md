@@ -5,24 +5,21 @@ permalink: /about/
 
 ## Who I am
 
-I'm Collin, a data scientist from the Bay Area. I studied statistics at UCLA, and moved back to the Bay after graduating in 2018. 
+I'm Collin, a data scientist from the Bay Area. I studied statistics at UCLA, and am a Metis graduate. 
 
-I'm currently a contract decision scientist at Facebook, where I analyze returns on marketing investments through [marketing mix modeling](https://en.wikipedia.org/wiki/Marketing_mix_modeling). Before this, I studied data science at Metis.
+I'm currently a contract decision scientist at Facebook, where I analyze marketing RoI through [marketing mix modeling](https://en.wikipedia.org/wiki/Marketing_mix_modeling). 
 
-My key focuses are optimizing my technical skills, writing ability, and investing knowledge. 
+## Writing
 
-## Motivations for blogging
+Writing forces me to think more rigorously than I usually do. As I improve my technical skills and acquire domain knowledge, I plan to use writing to solidify my understanding and develop new thoughts.
 
-"Writing is a concentrated form of thinking. I don’t know what I think about certain subjects, even today, until I sit down and try to write about them. Maybe I wanted to find more rigorous ways of thinking." (Don LeLillo)
+## Problem solving framework
 
-After stumbling upon the above quote, I knew that I wanted to write more. I started building this blog a day later, to . 
+1. Describe: Invest time in developing context and understanding details of problem. Then state your problem and goal verbally and explicitly.
+2. Research: Look for examples where others solved your problem, or a related problem.
+3. Strategize: Create a plan of attack for your problem. If a problem becomes too large, decompose it into smaller steps to manage complexity and morale. If a problem is too complex, solve the simplest version of that problem first.
+4. Implement: Carry out your plan.
+5. Adjust: Analyze why your strategy did or didn't work. Assess the difference between your result and a workable solution. Determine whether to make a minor tweak, or big direction change. Consider alternate ways to arrive at a solution.
 
-My plan is to use writing to organize information, and flesh out my opinions regarding data science, personal growth, investing, and in current events. 
+## [Getting rich](https://twitter.com/naval/status/1002103360646823936)
 
-In order of priority, here are my reasons for writing. 
-
-1. Process information actively
-2. Clarify personal opinions 
-3. Record my knowledge 
-4. Practice writing 
-5. Have a living portfolio

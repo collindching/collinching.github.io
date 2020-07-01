@@ -5,11 +5,11 @@
 
 theme                    : #"minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.19.2"
-minimal_mistakes_skin    : "contrast" # "dirt" # "default", "air", "aqua", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Collin Ching"
+title                    : 
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Collin Ching"
@@ -18,7 +18,7 @@ url                      :
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "collindching/collindching.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "./images/c.png"
+logo                     : 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -86,18 +86,18 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Collin Ching"
+  name             : "Collin Ching"
   avatar           : "./images/profile.png"
-  bio              : "Notes on data science and learning"
+  bio              : "Data scientist, interested in finance."
   location         : "San Francisco"
-  email            : collindching@gmail.com
+  email            : 
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/collindching/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/collindching
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/collindching/"
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@collindching"
