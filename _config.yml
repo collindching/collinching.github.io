@@ -18,8 +18,8 @@ url                      :
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "collindching/collindching.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : 
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : #'./images/c.png'
+masthead_title           : Collin's Blog # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -88,9 +88,9 @@ analytics:
 author:
   name             : "Collin Ching"
   avatar           : "./images/profile.png"
-  bio              : "Data scientist, contracting at Facebook.<br>R and Python."
+  bio              : "Data science, statistics, and programming."
   location         :
-  email            : collindching@gmail.com 
+  email            : 
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -262,7 +262,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
+      read_time: true
       comments: # true
       share: false
       related: false

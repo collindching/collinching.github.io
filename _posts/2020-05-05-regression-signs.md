@@ -1,7 +1,7 @@
 ---
 layout: single
+classes: wide
 title: "Why your regression coefficients have the wrong sign"
-subtitle: "Addressing collinearity in practice"
 excerpt: "Addressing collinearity in practice"
 ---
 
