@@ -7,11 +7,13 @@ permalink: /about/
 
 I'm Collin, a data scientist from the Bay Area. I studied statistics at UCLA and am a Metis graduate. 
 
-I'm currently a contract data scientist at Facebook, where I analyze advertising RoI through [marketing mix modeling](https://en.wikipedia.org/wiki/Marketing_mix_modeling). 
+Right now, I'm doing data science at Facebook in the marketing domain. I work on quantifying marketing performance through [marketing (or marketing) mix modeling](https://en.wikipedia.org/wiki/Marketing_mix_modeling). 
+
+In my spare time, I like to read, play ping pong, and go on walks. 
 
 ## Writing
 
-Writing forces me to think more rigorously than I usually do. As I improve my technical skills and acquire domain knowledge, I plan to use writing to solidify my understanding and develop new thoughts.
+Writing forces me to rigorously assert and defend my thoughts. As I improve my technical skills and gain knowledge knowledge, I plan to write to solidify my understanding, develop opinions, and record ideas.
 
 ## Problem solving framework
 
