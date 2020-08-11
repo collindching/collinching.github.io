@@ -7,7 +7,7 @@ permalink: /about/
 
 I'm Collin, a data scientist from the Bay Area. I studied statistics at UCLA and am a Metis graduate. 
 
-Right now, I'm doing data science at Facebook in the marketing domain. I work on quantifying marketing performance through [marketing (or marketing) mix modeling](https://en.wikipedia.org/wiki/Marketing_mix_modeling). 
+Right now, I'm doing data science at Facebook in the marketing domain. I work on quantifying marketing performance through [media mix modeling](https://en.wikipedia.org/wiki/Marketing_mix_modeling). 
 
 In my spare time, I like to read, play ping pong, and go on walks. 
 
