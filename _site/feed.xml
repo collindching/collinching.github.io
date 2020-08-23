@@ -1,88 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-08T23:45:11-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Collin Ching</title><subtitle>Source code for my blog</subtitle><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><entry><title type="html">Why your regression coefficients have the wrong sign</title><link href="http://localhost:4000/regression-signs/" rel="alternate" type="text/html" title="Why your regression coefficients have the wrong sign" /><published>2020-05-05T00:00:00-07:00</published><updated>2020-05-05T00:00:00-07:00</updated><id>http://localhost:4000/regression-signs</id><content type="html" xml:base="http://localhost:4000/regression-signs/">&lt;p&gt;Imagine you build a model for your company’s marketing team, and in the stakeholder meeting, you present the following output:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-23T15:07:12-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Collin Ching</title><subtitle>Source code for my blog</subtitle><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><entry><title type="html">How to program and debug more effectively as a data scientist</title><link href="http://localhost:4000/programming-lessons/" rel="alternate" type="text/html" title="How to program and debug more effectively as a data scientist" /><published>2020-08-23T00:00:00-07:00</published><updated>2020-08-23T00:00:00-07:00</updated><id>http://localhost:4000/programming-lessons</id><content type="html" xml:base="http://localhost:4000/programming-lessons/">&lt;p&gt;Recently, I delivered my first software package, designed to automate some time-intensive calculations that are critical to my team’s data workflow. The process included more debug cycles than I care to admit, partly because of growing code complexity and evolving requirements, and partly because I could have planned and executed more effectively.&lt;/p&gt;
+
+&lt;p&gt;After some reflection, here are some key lessons from that experience, which can help you write software more effectively as a data scientist.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-map-out-your-software-design&quot;&gt;1. Map out your software design&lt;/h3&gt;
+
+&lt;p&gt;When I started my project, I dove into coding with limited upfront planning, thinking that the exact details of my software design would become clearer as I coded.  As my code became more complex, I started losing track of how all my functions fit together.&lt;/p&gt;
+
+&lt;p&gt;And when requirements changed – meaning I had to make modifications to my program’s design, I wasn’t completely sure how all my code fit together. Without a blueprint or diagram to refer to, I had to re-invest time sifting through code to recall how data was being passed between functions, in what format, etc.  and to refresh on the logic I used to manipulate the data.&lt;/p&gt;
+
+&lt;p&gt;Avoiding this pitfall takes relatively little effort. Have a simple, but clear picture of what your software does at a high-level, whether you draw out a diagram or take notes on your software’s design and functions. Keeping a sketch with pen-and-paper and boxes and arrows would suffice. I personally wrote bullets on a working document that I could constantly modify.&lt;/p&gt;
+
+&lt;p&gt;There are several advantages of keeping a design map. For one, documenting your software design will give you a clearer idea of how all your code pieces fit together. Verbalizing the logic of your data manipulations can help you sense check that your logic will give you your intended result. And of course, having a clear reference becomes extremely handy when you need to make bigger changes to the design of your code.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-invest-in-file-organization&quot;&gt;2. Invest in file organization&lt;/h3&gt;
+
+&lt;p&gt;Between multiple scripts and Excel files, I grossly underestimated the number of files that I would be navigating throughout my project. When my ad-hoc file naming system eventually failed, I found myself re-writing several functions because I couldn’t find the original files in which I’d written them.&lt;/p&gt;
+
+&lt;p&gt;Investing in your organization will inevitably reduce stress down the line, and improve long-term efficiency. Before starting a project, it’s helpful to invest some upfront effort to define a clear, maintainable file organization and naming system.&lt;/p&gt;
+
+&lt;p&gt;Some basics guidelines would be to have:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;For this output, create correlated marketing data where sales volume is target variable&lt;/li&gt;
-  &lt;li&gt;Create two variables that are highly correlated, and also have a similar effect&lt;/li&gt;
-  &lt;li&gt;Then show outputs&lt;/li&gt;
+  &lt;li&gt;A separate folder for each project you’re working on&lt;/li&gt;
+  &lt;li&gt;A folder for each of your respective file categories (i.e. scripts, data, outputs, QA, etc.)&lt;/li&gt;
+  &lt;li&gt;A consistent naming convention for code&lt;/li&gt;
+  &lt;li&gt;A consistent naming convention for your data files&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;How will your stakeholders react? While your model says this… does it actually make sense? If you do show this result, expect to receive a harsh berating.&lt;/p&gt;
+&lt;p&gt;Beyond that, I found it helpful to use version tags and date tags on code and data files (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;v2-file-2020-08-03&lt;/code&gt;), to make it easier to navigate by chronology.&lt;/p&gt;
 
-&lt;h3 id=&quot;suspect-collinearity&quot;&gt;Suspect collinearity&lt;/h3&gt;
+&lt;h3 id=&quot;3-validate-each-code-unit&quot;&gt;3. Validate each code unit&lt;/h3&gt;
 
-&lt;p&gt;If you are working on a regression model and&lt;/p&gt;
+&lt;p&gt;Debugging was the most painful part of my programming project by far. This pain often stemmed narrowing down the location of bugs. One lesson I learned was to validate regularly at each transformation step, to ensure that any data processing result had values and dimensions I expected.&lt;/p&gt;
+
+&lt;p&gt;This allowed me to catch unexpected behavior early on, and allowed me to be confident about data at each step.&lt;/p&gt;
+
+&lt;p&gt;A couple basic checks that I regularly used:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Checking number of rows before and after joining two data frames&lt;/li&gt;
+  &lt;li&gt;Checking that sums of variables match up before and after processing&lt;/li&gt;
+  &lt;li&gt;Checking for missing values&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To increase efficiency and repeat keystrokes, I would think about ways to automate validation, either through by creating simple validation functions or Excel templates. For me, time invested in automating validation easily paid itself off tenfold.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-debug-methodically&quot;&gt;4. Debug methodically&lt;/h3&gt;
+
+&lt;p&gt;When errors arise, debugging by following your instincts can sometimes pay off. But without a plan, this approach can be arbitrary and frustrating. In the long-term, following a methodical debugging procedure is a more effective strategy.&lt;/p&gt;
+
+&lt;p&gt;Building a system in which you narrow down sources of error and document attempted solutions can help you more effectively circle in on a solution. Moreover, this keeps stress at bay, allowing you to focus on debugging with an organized and calm mind.&lt;/p&gt;
+
+&lt;p&gt;At a high-level, I think a system should involve understanding the error message, developing context around the bug, and testing and documenting solutions in an organized fashion. In this system, you get more control over your debugging process, a reference document for future debugging cycles, and significant reduction in stress in exchange for a small additional investment in time and effort. The procedure that I’ve been using is:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Variables that should have positive coefficients are negative (or vice versa),&lt;/li&gt;
-  &lt;li&gt;Your coefficients change significantly (i.e. flip signs) as you add/remove predictors&lt;/li&gt;
-  &lt;li&gt;Variables that should be significant don’t present as significant&lt;/li&gt;
+  &lt;li&gt;If there is an error message, read it carefully and look it up; if not, describe the unexpected behavior in writing&lt;/li&gt;
+  &lt;li&gt;Narrow down the location of the offending code by inserting manual tests&lt;/li&gt;
+  &lt;li&gt;Once you’ve identified where the error occurs, check the structure, format, and values of the data entering your offending code – usually this will lead to a solution&lt;/li&gt;
+  &lt;li&gt;Fix, re-run, evaluate, document&lt;/li&gt;
+  &lt;li&gt;If the error persists, research the error further and test again&lt;/li&gt;
+  &lt;li&gt;If the error persists, ask for debugging help&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Then you should immediately suspect collinearity.&lt;/p&gt;
+&lt;p&gt;While your system might be different, I think the core principles will be the same: understand your error, locate the bug, investigate obvious sources of error, and test and document.&lt;/p&gt;
 
-&lt;p&gt;At the same time, if the model does not match your intuition, make sure to challenge your assumptions as well. At times, your model may show you counterintuitive information that challenges your beliefs – but is actually accurate. My suggestion is to always keep your assumptions and beliefs in check, and keep an open mind where possible.&lt;/p&gt;
+&lt;h3 id=&quot;5-document-bugs-and-solutions&quot;&gt;5. Document bugs and solutions&lt;/h3&gt;
 
-&lt;h3 id=&quot;solutions&quot;&gt;Solutions&lt;/h3&gt;
+&lt;p&gt;In the course of my project, I caught myself debugging the same problem several times, which was an inefficient use of time.&lt;/p&gt;
 
-&lt;h4 id=&quot;do-you-have-the-option-of-removing-correlated-predictors&quot;&gt;Do you have the option of removing correlated predictors?&lt;/h4&gt;
+&lt;p&gt;To avoid solving the same problem twice, I started maintaining a document of bugs that I ran into, along with their solutions. This reference also has a preventative benefit, allowing me to keep track of common bugs and avoid making those mistakes in the first place.&lt;/p&gt;
 
-&lt;p&gt;Notes&lt;/p&gt;
-
-&lt;h4 id=&quot;will-regularized-regression-work-in-your-context&quot;&gt;Will regularized regression work in your context?&lt;/h4&gt;
-
-&lt;p&gt;Notes&lt;/p&gt;
-
-&lt;h4 id=&quot;residualize-yoru-stuff&quot;&gt;Residualize yoru stuff&lt;/h4&gt;
-
-&lt;p&gt;Notes&lt;/p&gt;
-
-&lt;h4 id=&quot;merging-variables-together&quot;&gt;Merging variables together&lt;/h4&gt;
-
-&lt;p&gt;Notes&lt;/p&gt;
-
-&lt;h3 id=&quot;a-recap-on-the-framework-for-approaching-collinearity-and-a-few-additional-working-example&quot;&gt;A recap on the framework for approaching collinearity, and a few additional working example&lt;/h3&gt;
-
-&lt;p&gt;Here is the framework I would use for&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Provide minimal working evidence of collinearity issue&lt;/li&gt;
-  &lt;li&gt;Map potential solutions (ranked from simple to complex)&lt;/li&gt;
-  &lt;li&gt;Test each solution out, documenting your steps and results for each one&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Provide simple evidence that collinearity is in fact the culprit. Do this by presenting a model in which your coefficients make sense, another where they don’t, and then show the correlations and VIF for variables that are wrong.&lt;/p&gt;
-
-&lt;p&gt;Literature review:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://web.stanford.edu/class/stats202/content/lec5-condensed.pdf&quot;&gt;Variable selection via clustering&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.stat.columbia.edu/~gelman/stuff_for_blog/oh_no_I_got_the_wrong_sign.pdf&quot;&gt;Oh No! I Got the Wrong Sign! What Should I do?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stats.stackexchange.com/questions/1580/regression-coefficients-that-flip-sign-after-including-other-predictors&quot;&gt;Regression signs that flip after including other predictors&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S2314717218300059&quot;&gt;Correlation based feature selection with clustering for high dimensional data&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.kellogg.northwestern.edu/faculty/dranove/htm/dranove/coursepages/Mgmt%20469/choosing%20variables.pdf&quot;&gt;Choosing the Right Variables for the Right Hand Side&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stats.stackexchange.com/questions/38093/how-to-deal-with-high-correlation-among-predictors-in-multiple-regression&quot;&gt;How to deal with high correlation among predictors in multiple regression&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/&quot;&gt;Multicollinearity&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stats.stackexchange.com/questions/32472/collapsing-combining-two-variables-into-one-for-analysis&quot;&gt;Collapsing two variables into one for analysis&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stats.stackexchange.com/questions/198271/regression-coefficients-seem-to-have-the-wrong-sign-can-i-force-them-to-have-a&quot;&gt;StackExchange&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Scenario walkthrough&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Need to build inferential model&lt;/li&gt;
-  &lt;li&gt;Signs were not coming out right, and as I added variables they were flipping&lt;/li&gt;
-  &lt;li&gt;Needed to change the values&lt;/li&gt;
-  &lt;li&gt;Tested variable of interest&lt;/li&gt;
-  &lt;li&gt;Pulled variables out, one at a time,&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Recap&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Generate a hypothesis for why it’s looking different&lt;/li&gt;
-  &lt;li&gt;Confirm hypothesis by playing with data&lt;/li&gt;
-  &lt;li&gt;Attempting different solutions&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you suspect collinearity&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Run a quick correlation table on your input variables&lt;/li&gt;
-  &lt;li&gt;Look at a scatterplot between the key problem variables&lt;/li&gt;
-  &lt;li&gt;Test a strategy for&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><summary type="html">Addressing collinearity in practice</summary></entry></feed>
+&lt;p&gt;I suggest keeping your solution document simple; you can keep track of each error you face in a spreadsheet – mine only has four columns: error, context, solution, and notes for next time.&lt;/p&gt;</content><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><summary type="html">Lessons from my first data science software project</summary></entry></feed>

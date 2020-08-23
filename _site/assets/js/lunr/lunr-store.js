@@ -1,7 +1,7 @@
 var store = [{
-        "title": "Why your regression coefficients have the wrong sign",
-        "excerpt":"Imagine you build a model for your company’s marketing team, and in the stakeholder meeting, you present the following output: For this output, create correlated marketing data where sales volume is target variable Create two variables that are highly correlated, and also have a similar effect Then show outputs How...","categories": [],
+        "title": "How to program and debug more effectively as a data scientist",
+        "excerpt":"Recently, I delivered my first software package, designed to automate some time-intensive calculations that are critical to my team’s data workflow. The process included more debug cycles than I care to admit, partly because of growing code complexity and evolving requirements, and partly because I could have planned and executed...","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/regression-signs/",
+        "url": "http://localhost:4000/programming-lessons/",
         "teaser": null
       }]
