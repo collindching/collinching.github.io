@@ -10,9 +10,9 @@ After some reflection, here are some key lessons from that experience, which can
 
 ### 1. Map out your software design 
 
-When I started my project, I dove into coding with limited upfront planning, thinking that the exact details of my software design would become clearer as I coded.  As my code became more complex, I started losing track of how all my functions fit together. 
+When I started my project, I dove into coding with limited upfront planning, thinking that the exact details of my software design would become clearer as I coded.  
 
-And when requirements changed -- meaning I had to make modifications to my program's design, I wasn't completely sure how all my code fit together. Without a blueprint or diagram to refer to, I had to re-invest time sifting through code to recall how data was being passed between functions, in what format, etc.  and to refresh on the logic I used to manipulate the data.
+As my code became more complex, I started losing track of how all my functions fit together. When requirements changed, I had to reinvest time into understanding my code to make desired modifications.
 
 Avoiding this pitfall takes relatively little effort. Have a simple, but clear picture of what your software does at a high-level, whether you draw out a diagram or take notes on your software's design and functions. Keeping a sketch with pen-and-paper and boxes and arrows would suffice. I personally wrote bullets on a working document that I could constantly modify. 
 
