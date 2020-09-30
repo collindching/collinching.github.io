@@ -21,7 +21,7 @@ In addition to reading, it is important to actively synthesize what you read by 
 
 ## Writing
 
-I'm interested in writing as an exercise for critically synthesizing knowledge. I hope to use it to solidify what I learn and read, to explore interesting hypotheses about the world, and to develop my opinions. Of course, I also want to develop my written and verbal eloquence. 
+I'm interested in writing as an exercise for critically synthesizing knowledge. I hope to use it to solidify what I learn and read, to explore interesting hypotheses about the world, and to develop my opinions. 
 
 I see writing as a combination of summarizing, sharing observations, and expressing opinions. I'm mainly interested in writing about books I've read, current events, and technical projects/learnings.
 
@@ -32,6 +32,10 @@ I see writing as a combination of summarizing, sharing observations, and express
 3. Strategize: Plan action steps. If your problem is overwhelmingly complex, decompose it. Consider also solving a simpler version of the problem first.
 4. Implement
 5. Adjust: Analyze outcomes, and assess necessary changes in approach.
+
+## Intellectual accountability
+
+WIP
 
 ## Optimism
 
