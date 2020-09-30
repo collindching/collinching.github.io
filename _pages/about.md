@@ -9,17 +9,15 @@ I'm Collin, a data scientist from the Bay Area. I studied statistics at UCLA and
 
 Right now, I build models to gauge marketing performance at Facebook via [marketing mix modeling](https://en.wikipedia.org/wiki/Marketing_mix_modeling). In my spare time, I like to read, learn data science, cook, and play ping pong. 
 
-Below are things that are important to me.
-
 ## Reading
 
-I used to only read non-fiction books, because I thought fiction books were impractical. I've lately come to appreciate fiction, for different reasons from why I appreciate non-fiction.
+I used to only read non-fiction books, but have come to appreciate fiction. My reasons for reading the two are different.
 
 Fiction: perspective, "firsthand" historical exposure, cultural empathy, adventure
 
-Non-fiction: practical knowledge, worldly knowledge, domain exposure, collecting ideas for future projects, sparking new ideas
+Non-fiction: practical/worldly knowledge, domain exposure, reading research, sparking new project ideas
 
-Importantly, it is important to synthesize the ideas you read through active application. 
+In addition to reading, it is important to actively synthesize what you read by writing, applying, and building. 
 
 ## Writing
 
@@ -28,8 +26,6 @@ I'm interested in writing as an exercise for critically synthesizing knowledge. 
 I see writing as a combination of summarizing, sharing observations, and expressing opinions. I'm mainly interested in writing about books I've read, current events, and technical projects/learnings.
 
 ## Problem solving 
-
-I've thought about problem solving 
 
 1. Describe: Understand problem details of your problem -- what is your problem, what is your question, and what is your goal? 
 2. Research
