@@ -13,30 +13,38 @@ Right now, I build models to gauge marketing performance at Facebook via [market
 
 I used to only read non-fiction books, but have come to appreciate fiction. My reasons for reading the two are different.
 
-Fiction: perspective, "firsthand" historical exposure, cultural empathy, adventure
+Fiction: perspective, historical experience, cultural empathy, adventure
 
 Non-fiction: practical/worldly knowledge, domain exposure, reading research, sparking new project ideas
 
 In addition to reading, it is important to actively synthesize what you read by writing, applying, and building. 
 
+## Table stakes
+
+Put something on the line when you learn or work towards a goal. Put energy, money, or reputation -- better yet, all three -- at stake. 
+
+Write about what you're working on. Apply what you learn to your daily life. Build something cool. 
+
 ## Writing
 
-I'm interested in writing as an exercise for critically synthesizing knowledge. I hope to use it to solidify what I learn and read, to explore interesting hypotheses about the world, and to develop my opinions. 
+I'm interested in writing as an exercise in critically synthesizing knowledge. I see writing as a combination of three parts: 1) summarizing, 2) sharing observations, and 3) expressing personal opinions.
 
-I see writing as a combination of summarizing, sharing observations, and expressing opinions. I'm mainly interested in writing about books I've read, current events, and technical projects/learnings.
+I plan to write to solidify what I learn and read, to explore hypotheses about how things work, and to develop my opinions on important subjects. 
+
+ I'm want to write about books I read, ideas I'm exploring, and on technical projects and learning. 
 
 ## Problem solving 
 
-1. Describe: Understand problem details of your problem -- what is your problem, what is your question, and what is your goal? 
-2. Research
-3. Strategize: Plan action steps. If your problem is overwhelmingly complex, decompose it. Consider also solving a simpler version of the problem first.
+1. Describe: Gather problem details, ask critical questions, and define primary goal
+2. Research: Look for previous solution help 
+3. Strategize: Plan action steps
+    - If your problem is overwhelmingly complex, decompose it
+    - Consider also solving a simpler version of the problem first
 4. Implement
-5. Adjust: Analyze outcomes, and assess necessary changes in approach.
+5. Adjust: Evaluate success, analyze outcomes, determine necessary changes
 
-## Intellectual accountability
+## Learning optimism
 
-WIP
+Pay attention to how you respond to adversity. What do you tell yourself when you make mistakes? 
 
-## Optimism
-
-WIP
+Challenge negative things that you tell yourself; embrace mistakes; have a growth mindset. 
