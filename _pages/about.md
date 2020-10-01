@@ -21,9 +21,9 @@ In addition to reading, it is important to actively synthesize what you read by 
 
 ## Put skin in the game
 
-Put something on the line when you learn or work towards a goal. Put energy, money, or reputation -- better yet, all three -- at stake. 
+To stay accountable, put something on the line when you learn, set a goal, or develop a theory. 
 
-Write about what you're working on. Apply what you learn to your daily life. Build something cool. 
+Publicly write about what you're working on. Build something that people use. Invest money based on your opinion.  
 
 ## Writing
 
