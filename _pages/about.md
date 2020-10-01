@@ -19,7 +19,7 @@ Non-fiction: practical/worldly knowledge, domain exposure, reading research, spa
 
 In addition to reading, it is important to actively synthesize what you read by writing, applying, and building. 
 
-## Table stakes
+## Put skin in the game
 
 Put something on the line when you learn or work towards a goal. Put energy, money, or reputation -- better yet, all three -- at stake. 
 
