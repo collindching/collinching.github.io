@@ -15,23 +15,21 @@ I used to only read non-fiction books, but have come to appreciate fiction. My r
 
 Fiction: perspective, historical experience, cultural empathy, adventure
 
-Non-fiction: practical/worldly knowledge, domain exposure, reading research, sparking new project ideas
+Non-fiction: practical/worldly knowledge, self-optimization, domain exposure, reading research, sparking new project ideas
 
-In addition to reading, it is important to actively synthesize what you read by writing, applying, and building. 
-
-## Put skin in the game
-
-To stay accountable, put something on the line when you learn, set a goal, or develop a theory. 
-
-Publicly write about what you're working on. Build something that people use. Invest money based on your opinion.  
+In addition to reading, it is important to actively synthesize what you read through writing and application. 
 
 ## Writing
 
-I'm interested in writing as an exercise in critically synthesizing knowledge. I see writing as a combination of three parts: 1) summarizing, 2) sharing observations, and 3) expressing personal opinions.
+Writing is an exercise in critically synthesizing knowledge. I think writing can be broken down into three parts: 1) summarizing, 2) drawing connections to your life and other knowledge, and 3) expressing personal opinions.
 
-I plan to write to solidify what I learn and read, to explore hypotheses about how things work, and to develop my opinions on important subjects. 
+It's important to write about what you read, what you think about, and what you work on. Make this a habit.
 
- I'm want to write about books I read, ideas I'm exploring, and on technical projects and learning. 
+## Learning by doing
+
+There are many ways to learn -- you can learn by studying, by teaching, and by doing. Learning by doing is the most challenging, and therefore the most efficient way to learn. 
+
+Always prioritize learning by doing, pick up necessary theory along the way.
 
 ## Problem solving 
 
