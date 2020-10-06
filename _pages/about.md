@@ -11,25 +11,23 @@ Right now, I build models to gauge marketing performance at Facebook via [market
 
 ## Reading
 
-I used to only read non-fiction books, but have come to appreciate fiction. My reasons for reading the two are different.
+For me, fiction and non-fiction are both valuable for different functions.
 
-Fiction: perspective, historical experience, cultural empathy, adventure
+Fiction for historical/cultural experience, perspective, adventure and non-fiction for practical/worldly knowledge, self-optimization, domain exposure.
 
-Non-fiction: practical/worldly knowledge, self-optimization, domain exposure, reading research, sparking new project ideas
-
-In addition to reading, it is important to actively synthesize what you read through writing and application. 
+In addition to reading, I try to actively synthesize what I read through writing and application. 
 
 ## Writing
 
 Writing is an exercise in critically synthesizing knowledge. I think writing can be broken down into three parts: 1) summarizing, 2) drawing connections to your life and other knowledge, and 3) expressing personal opinions.
 
-It's important to write about what you read, what you think about, and what you work on. Make this a habit.
+I believe in writing about what I read, think about, and work on as a healthy habit thinking exercise. 
 
 ## Learning by doing
 
-There are many ways to learn -- you can learn by studying, by teaching, and by doing. Learning by doing is the most challenging, and therefore the most efficient way to learn. 
+There are many ways to learn -- by studying, teaching, and/or doing. I think learning by doing is the most challenging and efficient way to learn. 
 
-Always prioritize learning by doing, pick up necessary theory along the way.
+Prioritize learning by doing, pick up necessary theory along the way. You don't need to know everything before you start.
 
 ## Problem solving 
 
