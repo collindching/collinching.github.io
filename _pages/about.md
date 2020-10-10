@@ -17,17 +17,23 @@ Fiction for historical/cultural experience, perspective, adventure and non-ficti
 
 In addition to reading, I try to actively synthesize what I read through writing and application. 
 
+## Ask good questions
+
+Before embarking on any problem, ask good questions.
+
+Doing so anchors your focus around the important considerations of the problem. Once you've asked the right questions, good, focused solutions follow. 
+
 ## Writing
 
 Writing is an exercise in critically synthesizing knowledge. I think writing can be broken down into three parts: 1) summarizing, 2) drawing connections to your life and other knowledge, and 3) expressing personal opinions.
 
 I believe in writing about what I read, think about, and work on as a healthy habit thinking exercise. 
 
-## Learning by doing
+## Learn by doing
 
 There are many ways to learn -- by studying, teaching, and/or doing. I think learning by doing is the most challenging and efficient way to learn. 
 
-Prioritize learning by doing, pick up necessary theory along the way. You don't need to know everything before you start.
+Learn by doing whenever possible.
 
 ## Problem solving 
 
@@ -39,8 +45,6 @@ Prioritize learning by doing, pick up necessary theory along the way. You don't 
 4. Implement
 5. Adjust: Evaluate success, analyze outcomes, determine necessary changes
 
-## Learning optimism
+## Positive psychology
 
-Pay attention to how you respond to adversity. What do you tell yourself when you make mistakes? 
-
-Challenge negative things that you tell yourself; embrace mistakes; have a growth mindset. 
+Leverage positive psychology to develop resilience to adversity and superpower personal growth. 
