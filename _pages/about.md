@@ -19,9 +19,9 @@ In addition to reading, I try to actively synthesize what I read through writing
 
 ## Ask good questions
 
-Before embarking on any problem, ask good questions.
+Given a problem, you might not immediately identify the best solution. But you can quickly pose good questions which, answered thoughtfully, will lead to great solutions.
 
-Doing so anchors your focus around the important considerations of the problem. Once you've asked the right questions, good, focused solutions follow. 
+Before embarking on any problem, ask good questions. Doing so anchors your focus around the important considerations of the problem. With some thinking, testing, and perseverance, good solutions will follow.
 
 ## Writing
 
