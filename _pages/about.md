@@ -31,9 +31,9 @@ I believe in writing about what I read, think about, and work on as a healthy ha
 
 ## Learn by doing
 
-There are many ways to learn -- by studying, teaching, and/or doing. I think learning by doing is the most challenging and efficient way to learn. 
+Learning by doing is the most challenging and direct way to learn. Boldly dive into challenges, and learn by doing whenever possible. 
 
-Learn by doing whenever possible.
+Learn through active practice rather than passive learning.
 
 ## Problem solving 
 
