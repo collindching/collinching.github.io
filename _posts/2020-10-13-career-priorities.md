@@ -1,4 +1,8 @@
-# My career priorities, dated October 2020
+---
+layout: single
+title: "My career priorities, dated October 2020"
+excerpt: "Why scrolling Blind is dangerous, and why setting personal goals is important"
+---
 
 I've been creeping on Blind lately, an app where software engineers and data scientists share their compensation packages from major tech companies. 
 
