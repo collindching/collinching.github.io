@@ -4,19 +4,19 @@ title: "My career priorities, dated October 2020"
 excerpt: "Why scrolling Blind is dangerous, and why setting personal goals is important"
 ---
 
-I've been creeping on Blind lately, an app where software engineers and data scientists share their compensation packages from major tech companies. 
-
-For sure, it is fun and inspiring to see what one can make in the course of a tech career. But as I scrolled, I inevitably compared my salary against those of top earners with similar years of experience. Don't get me wrong: I am well-paid and live happily on my salary, the curse of comparison, inevitably, is stress.
+I've been creeping on Blind lately, an app where software engineers and data scientists share their compensation packages from major tech companies. And while it is fun to see what my peers earn, scrolling through posts has also been stressful.
 
 _Am I paid enough? Can I get paid more? My life would be so much better if I had x more dollars. How do I raise my salary to y dollars? What company, which skills, what projects should I focus on to get more money?_ 
 
-Eventually, it occurred to me that I'd left more fundamental questions unanswered: _How important is money to me right now? What do I want out of my next job? What problems am I interested in solving? What do I want from life, in general?_
+I probably spent an entire week thinking solely about making more money, until it occurred to me that I hadn't assessed how important salary was to me. 
 
-And then I realized: while compensation is a top priority for people who use Blind, it isn't my top optimization criteria. It has been more important for me to develop my data science skills than to make the highest possible salary, yet I was comparing myself against people who had different priorities.
+ _How important is money to me right now? What do I want out of my next job? What problems am I interested in solving? What do I want from life, in general?_
 
-Which brings me to the point of this post: I believe that it is important to evaluate and record your priorities and your rationales for having them. Doing so forces you to thoughtfully consider what is most important to you, and commit to those decisions. And in times of doubt, these records can be act as a reference and help you stick to your priorities and your plan.
+I reflected on the questions above and realized that, while compensation was a top priority for people posting on Blind, skill development has been a higher short-term priority for me. Comparing myself to others on the basis on compensation reduced my worth to a single number that didn't do my efforts jutstice. 
 
-Without further ado, here are my priorities as of October 2020.
+This brings me to the point of this post: it's important to evaluate and record your career priorities and reasons for having them. Doing so forces you to consider what matters to you thoughtfully. And in times of doubt, having a record of your priorities can be helpful reminder to stick to your plan.
+
+With that in mind, here are my priorities as of October 2020.
 
 ## 1. Master data science skills
 
