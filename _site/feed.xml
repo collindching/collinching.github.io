@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-01T20:52:11-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Collin Ching</title><subtitle>Source code for my blog</subtitle><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><entry><title type="html">How to program and debug more effectively as a data scientist</title><link href="http://localhost:4000/programming-lessons/" rel="alternate" type="text/html" title="How to program and debug more effectively as a data scientist" /><published>2020-08-23T00:00:00-07:00</published><updated>2020-08-23T00:00:00-07:00</updated><id>http://localhost:4000/programming-lessons</id><content type="html" xml:base="http://localhost:4000/programming-lessons/">&lt;p&gt;Recently, I delivered my first software package, designed to automate some time-intensive calculations that are critical to my team’s data workflow. The process included more debug cycles than I care to admit, partly because of growing code complexity and evolving requirements, and partly because I could have planned and executed more effectively.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-06T08:27:04-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Collin Ching</title><subtitle>Source code for my blog</subtitle><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><entry><title type="html">My career priorities, dated October 2020</title><link href="http://localhost:4000/career-priorities/" rel="alternate" type="text/html" title="My career priorities, dated October 2020" /><published>2020-10-13T00:00:00-07:00</published><updated>2020-10-13T00:00:00-07:00</updated><id>http://localhost:4000/career-priorities</id><content type="html" xml:base="http://localhost:4000/career-priorities/">&lt;p&gt;I’ve been creeping on Blind lately, an app where software engineers and data scientists share their compensation packages from major tech companies. And while it is fun to see what my peers earn, scrolling through posts has also been stressful.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Am I paid enough? Can I get paid more? My life would be so much better if I had x more dollars. How do I raise my salary to y dollars? What company, which skills, what projects should I focus on to get more money?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I probably spent an entire week thinking solely about making more money, until it occurred to me that I hadn’t assessed how important salary was to me.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;How important is money to me right now? What do I want out of my next job? What problems am I interested in solving? What do I want from life, in general?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I reflected on the questions above and realized that, while compensation was a top priority for people posting on Blind, skill development has been a higher short-term priority for me. Comparing myself to others on the basis on compensation reduced my worth to a single number that didn’t do my efforts jutstice.&lt;/p&gt;
+
+&lt;p&gt;This brings me to the point of this post: it’s important to evaluate and record your career priorities and reasons for having them. Doing so forces you to consider what matters to you thoughtfully. And in times of doubt, having a record of your priorities can be helpful reminder to stick to your plan.&lt;/p&gt;
+
+&lt;p&gt;With that in mind, here are my priorities as of October 2020.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-master-data-science-skills&quot;&gt;1. Master data science skills&lt;/h2&gt;
+
+&lt;p&gt;My number 1 priority is to master technical skills and the business critical thinking necessary to do great data science.&lt;/p&gt;
+
+&lt;p&gt;On the topic of technical skill development, I’m interested in learning statistical, ML, or programming concepts as they apply to driving high-impact business decisions or otherwise meaningful change. I have a lot on my learning wishlist, but topics that I want to tackle with greater depth are SQL, basics of data engineering, modeling techniques and ML algorithms, methods of model deployment, experimentation methods, and causal inference.&lt;/p&gt;
+
+&lt;p&gt;On the softer side, I’m interested in honing the critical thinking that is required to identify a meaningful and important business problem, explore that problem’s business and data context rigorously, and build an actionable solution. Mastering this skill is more important to me than mastering any one technical skill. I believe the challenge may be navigating many constraints and coming up with creative solutions in the absence of perfect data.&lt;/p&gt;
+
+&lt;p&gt;To note, I am prioritizing skill mastery of career advancements. Given the option to either advance my skills or receive a promotion, I’m willing to forego a short-term salary bump if it means faster growth as a data scientist. In the mid-term and long-term, I believe good career advancement opportunities will follow as a lagging measure of skill mastery.&lt;/p&gt;
+
+&lt;p&gt;As a rule, as I pursue this goal I will focus on active learning and deliberate practice, with building, drilling, and writing as my main processes for learning. Anything I learn passively through reading or coursework I intend to reinforce through an active learning process. While this may lead to slower progress and greater effort on my end, I believe this will be most effective for my growth.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-build-great-learning-and-working-habits&quot;&gt;2. Build great learning and working habits&lt;/h2&gt;
+
+&lt;p&gt;Since learning will be crucial for my personal and career development, I am convinced that optimizing my learning habits would pay huge dividends. In studying the art of learning, my goal is to collect strategies that can lead to a lifetime of more efficient and effective learning.&lt;/p&gt;
+
+&lt;p&gt;Primarily, I’ll be studying recurring behaviors that top performers use to achieve their goals, writing down their principles and habits, and applying and refining a strategy that works best for myself.&lt;/p&gt;
+
+&lt;p&gt;My process for accomplishing this goal will be reading and summarizing books about learning, capturing the key strategies on my personal blog, and then keeping myself accountable to the habits that are most important.&lt;/p&gt;
+
+&lt;p&gt;I am very excited about this priority and how it will affect my life outside of just work.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-learn-how-the-world-operates&quot;&gt;3. Learn how the world operates&lt;/h2&gt;
+
+&lt;p&gt;Abstractly, I’d like to learn how the world works and how people operate both as individuals and as members of systems. Reading and reflecting on these questions will hopefully help me discover questions that matter to me.&lt;/p&gt;
+
+&lt;p&gt;As a more concrete goal, I’d like to accumulate a collection of mental models that I can refer to about how and why things happen, and tie these back into my life in some way. Maybe some of these can be a basis for a future project or career move in data science, and help me improve either my life or someone else’s life.&lt;/p&gt;
+
+&lt;p&gt;As a habit, I’ll aim to read a diverse range of non-fiction subjects – economics, psychology, biographies, history, science – and amass a centralized collection of written notes. This will be the foundation for connecting ideas between disciplines and brainstorming new ideas.&lt;/p&gt;</content><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><summary type="html">Why scrolling Blind is dangerous, and why setting personal goals is important</summary></entry><entry><title type="html">How to program and debug more effectively as a data scientist</title><link href="http://localhost:4000/programming-lessons/" rel="alternate" type="text/html" title="How to program and debug more effectively as a data scientist" /><published>2020-08-23T00:00:00-07:00</published><updated>2020-08-23T00:00:00-07:00</updated><id>http://localhost:4000/programming-lessons</id><content type="html" xml:base="http://localhost:4000/programming-lessons/">&lt;p&gt;Recently, I delivered my first software package, designed to automate some time-intensive calculations that are critical to my team’s data workflow. The process included more debug cycles than I care to admit, partly because of growing code complexity and evolving requirements, and partly because I could have planned and executed more effectively.&lt;/p&gt;
 
 &lt;p&gt;After some reflection, here are some key lessons from that experience, which can help you write software more effectively as a data scientist.&lt;/p&gt;
 

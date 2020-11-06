@@ -39,19 +39,16 @@ I believe in writing about what I read, think about, and work on as a healthy ha
 
 ## Learn actively
 
-Learning by doing is the best, most direct way to learn. It often takes much more effort than passive learning, which is why it's so effective.
+Learning by doing is the best and most direct way to learn. It often takes much more effort than passive learning, which is why it's so effective.
 
-Consistently prioritize active learning in your journey -- through written synthesis, focused drilling, and applying concepts in projects. And devise active learning opportunities out of concepts that you learn passively through through reading and courses
+Consistently prioritize active learning in your journey -- through written synthesis, learning projects, and side projects. And devise active learning opportunities out of concepts that you learn passively through through reading and courses
 
 ## Problem solving framework
 
-1. Describe: Gather problem details, ask critical questions, and define primary goal
-2. Research: Look for previous solution help 
-3. Strategize: Plan action steps
-    - If your problem is overwhelmingly complex, decompose it
-    - Consider also solving a simpler version of the problem first
-4. Implement
-5. Adjust: Evaluate success, analyze outcomes, determine necessary changes
+1. Contextualize: Gather problem details, ask key questions, define primary goal, read research
+2. Strategize: Prioritize tasks, decompose problem, and plan actions; decompose problem if necessary
+3. Implement: Stick to your plan
+4. Adjust: Evaluate success, analyze outcomes, determine necessary changes
 
 ## Positive psychology
 
