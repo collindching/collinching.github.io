@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "My career priorities, dated October 2020"
+title: "My career priorities (October 2020)"
 excerpt: "Why scrolling Blind is dangerous, and why setting personal goals is important"
 ---
 
@@ -20,15 +20,15 @@ With that in mind, here are my priorities as of October 2020.
 
 ## 1. Master data science skills
 
-My number 1 priority is to master technical skills and the business critical thinking necessary to do great data science. 
+I am currently prioritizing skill mastery over career advancement. Given the option to either grow my skills or receive a salary bump, I'm will forego a short-term salary increase if it means quicker growth as a data professional. In the mid-term and long-term, good career advancement opportunities should follow as a lagging measure of skill mastery.  
 
-On the topic of technical skill development, I'm interested in learning statistical, ML, or programming concepts as they apply to driving high-impact business decisions or otherwise meaningful change. I have a lot on my learning wishlist, but topics that I want to tackle with greater depth are SQL, basics of data engineering, modeling techniques and ML algorithms, methods of model deployment, experimentation methods, and causal inference. 
+My number 1 priority is to **master technical skills** and **critical thinking** necessary to do great data science. 
 
-On the softer side, I'm interested in honing the critical thinking that is required to identify a meaningful and important business problem, explore that problem's business and data context rigorously, and build an actionable solution. Mastering this skill is more important to me than mastering any one technical skill. I believe the challenge may be navigating many constraints and coming up with creative solutions in the absence of perfect data. 
- 
-To note, I am prioritizing skill mastery of career advancements. Given the option to either advance my skills or receive a promotion, I'm willing to forego a short-term salary bump if it means faster growth as a data scientist. In the mid-term and long-term, I believe good career advancement opportunities will follow as a lagging measure of skill mastery.  
+On technical skill development, I'm interested in learning statistical, ML, or programming concepts as they apply to driving high-impact business decisions or products. I have a lot on my learning wishlist, but topics that I want to tackle with greater depth are SQL, basics of data engineering, modeling techniques and ML algorithms, methods of model deployment, experimentation methods, and causal inference. 
 
-As a rule, as I pursue this goal I will focus on active learning and deliberate practice, with building, drilling, and writing as my main processes for learning. Anything I learn passively through reading or coursework I intend to reinforce through an active learning process. While this may lead to slower progress and greater effort on my end, I believe this will be most effective for my growth.
+On the softer side, I want to hone the critical thinking necessary to identifying an important business problem, exploring that problem's business/data context rigorously, and building an actionable solution. This is more important than mastering any technical skill.  
+
+As a rule, as I pursue this goal I will focus on active learning and deliberate practice, with building, drilling, and writing as my main processes for learning. I intend to reinforce anything I learn passively (via reading, coursework) through active learning. While this may lead to slower progress and greater effort on my end, I believe this will be most effective for long-term growth.
 
 ## 2. Build great learning and working habits
 
