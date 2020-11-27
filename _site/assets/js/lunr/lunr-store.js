@@ -10,4 +10,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/career-priorities/",
         "teaser": null
+      },{
+        "title": "Getting deep work done",
+        "excerpt":"Deep work refers to professional activities that you accomplish in a state of intense, undistracted focus. Deep work is valuable because it results in value creation and skill mastery. Successfully cultivating a deep work habit involves effective deep work routines, concentration training, and shallow work management. In Deep Work, Cal...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/get-deep-work-done/",
+        "teaser": null
       }]

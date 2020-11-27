@@ -7,7 +7,7 @@ permalink: /about/
 
 I'm Collin, a data scientist from the Bay Area. I studied statistics at UCLA and am a Metis graduate. 
 
-Right now, I build models to gauge marketing performance at Facebook via [marketing mix modeling](https://en.wikipedia.org/wiki/Marketing_mix_modeling). In my spare time, I like to read, learn data science, cook, and play ping pong. 
+Currently, I build [models](https://en.wikipedia.org/wiki/Marketing_mix_modeling) to quantify marketing performance at Facebook. In my spare time, I like to read, learn data science, cook, and play ping pong. 
 
 ## Reading
 
@@ -45,9 +45,9 @@ Consistently prioritize active learning in your journey -- through written synth
 
 ## Problem solving framework
 
-1. Contextualize: Gather problem details, ask key questions, define primary goal, read research
-2. Strategize: Prioritize tasks, decompose problem, and plan actions; decompose problem if necessary
-3. Implement: Stick to your plan
+1. Contextualize: Gather problem details, define goal, ask key questions, read research
+2. Strategize: Define subproblems, prioritize tasks, and plan next actions
+3. Implement: Carry out your plan
 4. Adjust: Evaluate success, analyze outcomes, determine necessary changes
 
 ## Positive psychology

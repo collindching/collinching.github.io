@@ -1,4 +1,196 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-06T09:12:16-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Collin Ching</title><subtitle>Source code for my blog</subtitle><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><entry><title type="html">My career priorities (October 2020)</title><link href="http://localhost:4000/career-priorities/" rel="alternate" type="text/html" title="My career priorities (October 2020)" /><published>2020-10-13T00:00:00-07:00</published><updated>2020-10-13T00:00:00-07:00</updated><id>http://localhost:4000/career-priorities</id><content type="html" xml:base="http://localhost:4000/career-priorities/">&lt;p&gt;I’ve been creeping on Blind lately, an app where software engineers and data scientists share their compensation packages from major tech companies. And while it is fun to see what my peers earn, scrolling through posts has also been stressful.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-26T16:55:42-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Collin Ching</title><subtitle>Source code for my blog</subtitle><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><entry><title type="html">Getting deep work done</title><link href="http://localhost:4000/get-deep-work-done/" rel="alternate" type="text/html" title="Getting deep work done" /><published>2020-11-26T00:00:00-08:00</published><updated>2020-11-26T00:00:00-08:00</updated><id>http://localhost:4000/get-deep-work-done</id><content type="html" xml:base="http://localhost:4000/get-deep-work-done/">&lt;p&gt;Deep work refers to professional activities that you accomplish in a state of intense, undistracted focus. Deep work is valuable because it results in value creation and skill mastery.&lt;/p&gt;
+
+&lt;p&gt;Successfully cultivating a deep work habit involves effective deep work routines, concentration training, and shallow work management.&lt;/p&gt;
+
+&lt;p&gt;In &lt;a href=&quot;https://www.calnewport.com/books/deep-work/&quot;&gt;&lt;em&gt;Deep Work&lt;/em&gt;&lt;/a&gt;, Cal Newport shares four principles for cultivating a deep work habit. I simplified and repurposed his principles to apply them more directly in my life. My key takeaways from &lt;em&gt;Deep Work&lt;/em&gt; are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Build deep work routines&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Use a scheduling method&lt;/li&gt;
+      &lt;li&gt;Use depth rituals&lt;/li&gt;
+      &lt;li&gt;Execute like a business&lt;/li&gt;
+      &lt;li&gt;Commit to ending your work day&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nurture your focus&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Limit context switching&lt;/li&gt;
+      &lt;li&gt;Use social media and phones deliberately&lt;/li&gt;
+      &lt;li&gt;Schedule quality breaks&lt;/li&gt;
+      &lt;li&gt;Practice mindfulness&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tame your shallow work&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Schedule every minute of your day&lt;/li&gt;
+      &lt;li&gt;Use a fixed productivity schedule&lt;/li&gt;
+      &lt;li&gt;Communicate efficiently&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;build-deep-work-routines&quot;&gt;Build deep work routines&lt;/h2&gt;
+
+&lt;p&gt;Deep work is difficult, and willpower alone isn’t enough to consistently work deeply. Leverage rituals and strategies that lower the barriers to getting work done. These were the select strategies I found most helpful.&lt;/p&gt;
+
+&lt;h3 id=&quot;use-a-scheduling-method&quot;&gt;Use a scheduling method&lt;/h3&gt;
+
+&lt;p&gt;To determine when you accomplish your deep work, Cal Newport prescribes four main scheduling philosophies:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Monastic:&lt;/strong&gt; A hermetic approach to deep work which involves retreating from society for long stretches of time to remain in an extreme state of deep work. Suitable for people who don’t have regular obligations.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bimodal:&lt;/strong&gt; Schedule medium-length periods of deep work, punctuated by equal-length periods in which shallow work and other obligations can be taken care of.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Rhythmic:&lt;/strong&gt; Schedule a set daily time to work deeply. While the state of focus achieved with rhythmic scheduling isn’t as intense as monastic or bimodal scheduling, rhythmic scheduling is the most suitable for people who work in office jobs. This, in addition to journalistic scheduling, is the approach to deep work scheduling that I ascribe to.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Journalistic:&lt;/strong&gt; Schedule deep work sessions whenever there is available free time. Suitable for people with busy and changing schedules. This requires significant planning to block out deep work periods.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My approach to deep work scheduling is both rhythmic and journalistic. I wake up regularly around 7am, so that I get a daily deep work session from 7:30 - 9am. This is my most effective time of day, and it is protected time to invest in myself.&lt;/p&gt;
+
+&lt;p&gt;Work begins at 9am, at which point I transition to journalistic scheduling, with work sessions planned ad-hoc around the workday’s meetins.&lt;/p&gt;
+
+&lt;p&gt;I schedule my deep work before the day has started to eliminate on-the-spot decision making. Having a prepared plan makes it more likely that I will accomplish the deep work session that I previously committed to.&lt;/p&gt;
+
+&lt;h3 id=&quot;use-depth-rituals&quot;&gt;Use depth rituals&lt;/h3&gt;
+
+&lt;p&gt;A depth ritual is a ritual that you use to transition into a state of deep focus more seamlessly and work more effectively. These rituals do so by priming you for deep work, keeping you focused, and limiting working distractions.&lt;/p&gt;
+
+&lt;p&gt;For my depth routine, at minimum I will:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Set phone to &lt;em&gt;Do Not Disturb&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Start timer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When engaging in an intense deep work session, I will:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Prepare a thermos of water&lt;/li&gt;
+  &lt;li&gt;Write down:
+    &lt;ul&gt;
+      &lt;li&gt;Session goal&lt;/li&gt;
+      &lt;li&gt;Start and end time&lt;/li&gt;
+      &lt;li&gt;Subtasks&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Set phone to &lt;em&gt;Do Not Disturb&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Start timer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The idea is to set focus boundaries, record a specific and actionable goal, and limit context switching.&lt;/p&gt;
+
+&lt;h3 id=&quot;execute-like-a-business&quot;&gt;Execute like a business&lt;/h3&gt;
+
+&lt;p&gt;Newport also recommends approaching work like you would approach running a business. He draws four analogies from a business setting.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Focus on your top priorities:&lt;/strong&gt; Keep your priorities focused, identify a small number of ambitious outcomes to pursue with your deep work hours.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Act on lead meaures:&lt;/strong&gt; Focus on optimizing metrics that track actions that drive your success (track deep work hours).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keep a scoreboard of your deep work time:&lt;/strong&gt; To serve as a visual reminder of your personal and professional productivity.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Create a cadence of accountability:&lt;/strong&gt; Do a weekly review of your deep work sessions to analyze what went well and what didn’t, and why.&lt;/p&gt;
+
+&lt;h3 id=&quot;commit-to-ending-your-work-day&quot;&gt;Commit to ending your work day&lt;/h3&gt;
+
+&lt;p&gt;Shut off your work at a regular time daily. After this time, don’t think about work. This commitment will improve your working efficiency, problem solving capacity, and quality of life, based on the following observations:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Downtime is an opportunity to apply your subconscious, diffused processing to solve problems&lt;/li&gt;
+  &lt;li&gt;Rest and relaxation recharges the energy you need to work deeply (&lt;/li&gt;
+  &lt;li&gt;Your deep work ability declines later in the day&lt;/li&gt;
+  &lt;li&gt;Ending your work day gives you time to develop your personal interests, and grow outside of work&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To accomplish this, commit to a shutdown ritual at a specific time. My 6pm ritual involves:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Recording what I’ve done for the day&lt;/li&gt;
+  &lt;li&gt;Writing a brief plan for my remaining work, to be executed the next day&lt;/li&gt;
+  &lt;li&gt;Closing my laptop and organizing my desk&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s okay to extend your workday if you need more time. The key point is not the timing, but the commitment to turning work off.&lt;/p&gt;
+
+&lt;h2 id=&quot;nurture-your-focus&quot;&gt;Nurture your focus&lt;/h2&gt;
+
+&lt;p&gt;Think of your focus &lt;a href=&quot;https://www.nwtutoring.com/2019/06/03/focus-is-a-muscle/&quot;&gt;as a muscle&lt;/a&gt; that becomes stronger with training and performs optimally under certain conditions. If neglected and constantly fed low-quality distraction, your focus will atrophy.&lt;/p&gt;
+
+&lt;p&gt;Make a long-term commitment to mental training, and follow best practices to train your brain and improve your ability to produce rare and valuable work. Some strategies that can help:&lt;/p&gt;
+
+&lt;h3 id=&quot;limit-context-switching&quot;&gt;Limit context switching&lt;/h3&gt;
+
+&lt;p&gt;Context switching imposes cognitive load on the brain through the concept of &lt;a href=&quot;https://www.bbc.com/worklife/article/20200130-the-life-hack-to-reduce-admin-and-carve-out-downtime&quot;&gt;attention residue&lt;/a&gt;. Whenever you switch tasks, a portion of your brain’s attention will still be processing the previous task.&lt;/p&gt;
+
+&lt;p&gt;You lose a little bit of performance every time you switch task contexts, however brief, which is why even a quick glance at social media leads to significance reductions in work performance.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When performing deep work, commit to your task context for the duration of your session.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;use-social-media-and-phones-deliberately&quot;&gt;Use social media and phones deliberately&lt;/h3&gt;
+
+&lt;p&gt;Social media and smartphones &lt;a href=&quot;https://now.northropgrumman.com/this-is-your-brain-on-instagram-effects-of-social-media-on-the-brain/#:~:text=According%20to%20an%20article%20by,%E2%80%A6%20and%20now%2C%20social%20media.&quot;&gt;hijack&lt;/a&gt; the brain’s reward system and make it difficult for us to control our actions and impulses. It’s important to wrest control of your brain away from these technologies, and train yourself to work towards long-term rewards.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Be thoughtful about how often you check social media and other websites.&lt;/strong&gt; As you train yourself to fight internet impulses, you’ll improve your ability to fight internet distractions and focus on tasks that benefit your long-term goals.&lt;/p&gt;
+
+&lt;h3 id=&quot;schedule-quality-breaks&quot;&gt;Schedule quality breaks&lt;/h3&gt;
+
+&lt;p&gt;Breaks give you time to relax and rest your focus muscle. Additionally, scheduling breaks to look forward to can you help you stay motivated during a deep work session.&lt;/p&gt;
+
+&lt;p&gt;And the more effectively you rest, the better equipped you are to focus in your next session. By committing to high quality breaks, your work quality should improve significantly.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Make it easier for yourself to focus by scheduling breaks around your deep work.&lt;/strong&gt; &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3334&quot;&gt;Most breaks&lt;/a&gt; will result in a cognitive boost. For the best results, take &lt;a href=&quot;https://www.psychologytoday.com/us/blog/how-be-yourself/202006/7-strategies-maximize-break-while-working-home&quot;&gt;high quality breaks&lt;/a&gt; that &lt;a href=&quot;https://www.onlineschools.org/science-of-study-breaks/&quot;&gt;don’t involve screens, such as&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110&quot;&gt;Take a movement break&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Walk&lt;/li&gt;
+      &lt;li&gt;Stretch&lt;/li&gt;
+      &lt;li&gt;Workout&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Attention_restoration_theory&quot;&gt;Change your scenery and go outside&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedaily.com/releases/2015/03/150320091315.htm&quot;&gt;Take a power nap&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Mindfulness activities&lt;/li&gt;
+  &lt;li&gt;Read&lt;/li&gt;
+  &lt;li&gt;Draw&lt;/li&gt;
+  &lt;li&gt;Socialize&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;practice-mindfulness&quot;&gt;Practice mindfulness&lt;/h3&gt;
+
+&lt;p&gt;Mindfulness simply refers to being present in the moment. Oftentimes, this refers to meditation, but it describes any activity in which you’re completely, fully engaged. &lt;strong&gt;These activities are extremely helpful for honing your focus.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mindfulness activities include reading, cooking, and walking. Try to prioritize these activities in your downtime, and treat them as opportunities to be mindful of the present, and enjoy simple pleasures.&lt;/p&gt;
+
+&lt;h2 id=&quot;tame-your-shallow-work&quot;&gt;Tame your shallow work&lt;/h2&gt;
+
+&lt;p&gt;Deep work is valuable and should not be ignored, but shallow work is also necessary. Make it your goal to take care of your shallow work efficiently.&lt;/p&gt;
+
+&lt;h3 id=&quot;schedule-every-minute-of-your-day&quot;&gt;Schedule every minute of your day&lt;/h3&gt;
+
+&lt;p&gt;This exercise forces you to think about how you want your time to be spent. One way is to draw out your schedule in 15-minute blocks. I use a time blocking method that Cal Newport describes &lt;a href=&quot;https://www.calnewport.com/blog/2013/12/21/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Importantly, give yourself flexibility to change your schedule as things pop up throughout the day. But make sure to keep track of how your time actually gets used. Accounting for your time allows you to be more deliberate with deep work, shallow work, breaks, and transition time.&lt;/p&gt;
+
+&lt;h3 id=&quot;use-a-fixed-productivity-schedule&quot;&gt;Use a fixed productivity schedule&lt;/h3&gt;
+
+&lt;p&gt;By giving yourself a fixed amount of time to complete your work obligations, you become better at trimming the fat around your work schedule.&lt;/p&gt;
+
+&lt;p&gt;What should follow is that you guard your time better and learn to say no to nonessential obligations, giving you more time to dedicate to essential work activities.&lt;/p&gt;
+
+&lt;h3 id=&quot;communicate-efficiently&quot;&gt;Communicate efficiently&lt;/h3&gt;
+
+&lt;p&gt;To reduce the amount of back-and-forth effort that gets used in email communications, send the message that brings your conversation to a logical conclusion in the least number of emails.&lt;/p&gt;
+
+&lt;p&gt;The additional effort in crafting a succint message is worth the effort in terms of long-run conversation.&lt;/p&gt;
+
+&lt;h2 id=&quot;parting-thoughts&quot;&gt;Parting thoughts&lt;/h2&gt;
+
+&lt;p&gt;It requires constant input to build a good deep work habit. You don’t have to follow all these takeaways all the time, and slip-ups will happen.&lt;/p&gt;
+
+&lt;p&gt;What is important is to never give up on deep work. Consistently strive to build good habits, and regularly reflect on how you can improve.&lt;/p&gt;
+
+&lt;p&gt;I believe that if you plan well, make adjustments, and be gentle with yourself, good results should follow.&lt;/p&gt;</content><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><summary type="html">Distilling my key takeaways from Cal Newport's book</summary></entry><entry><title type="html">My career priorities (October 2020)</title><link href="http://localhost:4000/career-priorities/" rel="alternate" type="text/html" title="My career priorities (October 2020)" /><published>2020-10-13T00:00:00-07:00</published><updated>2020-10-13T00:00:00-07:00</updated><id>http://localhost:4000/career-priorities</id><content type="html" xml:base="http://localhost:4000/career-priorities/">&lt;p&gt;I’ve been creeping on Blind lately, an app where software engineers and data scientists share their compensation packages from major tech companies. And while it is fun to see what my peers earn, scrolling through posts has also been stressful.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Am I paid enough? Can I get paid more? My life would be so much better if I had x more dollars. How do I raise my salary to y dollars? What company, which skills, what projects should I focus on to get more money?&lt;/em&gt;&lt;/p&gt;
 
