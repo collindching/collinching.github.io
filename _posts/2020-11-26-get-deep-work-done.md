@@ -8,7 +8,9 @@ Deep work refers to professional activities that you accomplish in a state of in
 
 Successfully cultivating a deep work habit involves effective deep work routines, concentration training, and shallow work management. 
 
-In [_Deep Work_](https://www.calnewport.com/books/deep-work/), Cal Newport shares four principles for cultivating a deep work habit. I simplified and repurposed his principles to apply them more directly in my life. My key takeaways from _Deep Work_ are:
+In [_Deep Work_](https://www.calnewport.com/books/deep-work/), Cal Newport shares four principles for cultivating a deep work habit. You can read them [here](https://blog.doist.com/deep-work/). 
+
+I simplified and repurposed his principles to apply them in my life. My takeaways from _Deep Work_ are:
 
 - **Build deep work routines**
     - Use a scheduling method 
