@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Getting deep work done"
-excerpt: "Distilling my key takeaways from Cal Newport's book"
+excerpt: "Strategies for working more effectively and efficiently"
 ---
 
 Deep work refers to professional activities that you accomplish in a state of intense, undistracted focus. Deep work is valuable because it results in value creation and skill mastery.
@@ -164,10 +164,10 @@ To reduce the amount of back-and-forth effort that gets used in email communicat
 
 The additional effort in crafting a succint message is worth the effort in terms of long-run conversation.
 
-## Parting thoughts
+## Keep striving
 
-It requires constant input to build a good deep work habit. You don't have to follow all these takeaways all the time, and slip-ups will happen. 
+Building a good deep work habit isn't easy. Think of it as a process, and keep striving for growth and improvement. To borrrow from Michelle Obama, "reach continuously toward a better self." 
 
-What is important is to never give up on deep work. Consistently strive to build good habits, and regularly reflect on how you can improve. 
+Strive for improvement. Reflect on what you can do better. And resolve to push through obstacles. 
 
-I believe that if you plan well, make adjustments, and be gentle with yourself, good results should follow. 
+Plan well, make adjustments, and be gentle with yourself. Good results will follow.
