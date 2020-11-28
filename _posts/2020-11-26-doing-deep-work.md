@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Getting deep work done"
+title: "Doing deep work"
 excerpt: "Strategies for working more effectively and efficiently"
 ---
 
