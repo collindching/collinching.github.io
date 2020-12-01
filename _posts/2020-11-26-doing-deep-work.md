@@ -119,11 +119,9 @@ Social media and smartphones [hijack](https://now.northropgrumman.com/this-is-yo
 
 ### Schedule quality breaks
 
-Breaks give you time to relax and rest your focus muscle. Additionally, scheduling breaks to look forward to can you help you stay motivated during a deep work session. 
+The more effectively you rest, the [better equipped](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3334) you are to focus in your next session. Additionally, scheduling breaks to look forward to can you help you stay motivated during a deep work session. By committing to high quality breaks, your work quality should improve significantly.
 
-And the more effectively you rest, the better equipped you are to focus in your next session. By committing to high quality breaks, your work quality should improve significantly.
-
-**Make it easier for yourself to focus by scheduling breaks around your deep work.** [Most breaks](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3334) will result in a cognitive boost. For the best results, take [high quality breaks](https://www.psychologytoday.com/us/blog/how-be-yourself/202006/7-strategies-maximize-break-while-working-home) that [don't involve screens](https://www.onlineschools.org/science-of-study-breaks/):
+Some guidelines on scheduling breaks: plan your breaks ahead of time, ideally when you're scheduling your deep work. Consider stating what activity you intend to do during your break, to ensure you make the most of it. For the best results, try [not](https://www.onlineschools.org/science-of-study-breaks/) to use a screen:
 
 - [Move](https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110) 
     - Walk

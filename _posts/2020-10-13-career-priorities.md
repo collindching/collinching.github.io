@@ -28,7 +28,7 @@ On technical skill development, I'm interested in learning statistical, ML, or p
 
 On the softer side, I want to hone the critical thinking necessary to identifying an important business problem, exploring that problem's business/data context rigorously, and building an actionable solution. This is more important than mastering any technical skill.  
 
-As a rule, as I pursue this goal I will focus on active learning and deliberate practice, with building, drilling, and writing as my main processes for learning. I intend to reinforce anything I learn passively (via reading, coursework) through active learning. While this may lead to slower progress and greater effort on my end, I believe this will be most effective for long-term growth.
+As I pursue this goal I will focus on deliberate and direct practice. My primary learning processes will be building, drilling, and writing. I intend to reinforce anything I learn passively (via reading, coursework) through active learning. While this may lead to slower progress and greater effort on my end, I believe this will be most effective for long-term growth.
 
 ## 2. Build great learning and working habits
 
@@ -46,4 +46,4 @@ Abstractly, I'd like to learn how the world works and how people operate both as
 
 As a more concrete goal, I'd like to accumulate a collection of mental models that I can refer to about how and why things happen, and tie these back into my life in some way. Maybe some of these can be a basis for a future project or career move in data science, and help me improve either my life or someone else's life. 
 
-As a habit, I'll aim to read a diverse range of non-fiction subjects -- economics, psychology, biographies, history, science -- and amass a centralized collection of written notes. This will be the foundation for connecting ideas between disciplines and brainstorming new ideas. 
+As a habit, I'll aim to read a diverse range of non-fiction subjects -- economics, psychology, philosophy, history, biographies/memoirs, science -- and amass a centralized collection of written notes. This will be the foundation for connecting ideas between disciplines and developing new mental models. 

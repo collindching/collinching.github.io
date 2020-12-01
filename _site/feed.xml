@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-27T19:56:44-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Collin Ching</title><subtitle>Source code for my blog</subtitle><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><entry><title type="html">Doing deep work</title><link href="http://localhost:4000/doing-deep-work/" rel="alternate" type="text/html" title="Doing deep work" /><published>2020-11-26T00:00:00-08:00</published><updated>2020-11-26T00:00:00-08:00</updated><id>http://localhost:4000/doing-deep-work</id><content type="html" xml:base="http://localhost:4000/doing-deep-work/">&lt;p&gt;Deep work refers to professional activities that you accomplish in a state of intense, undistracted focus. Deep work is valuable because it results in value creation and skill mastery.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-01T09:40:59-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Collin Ching</title><subtitle>Source code for my blog</subtitle><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><entry><title type="html">Doing deep work</title><link href="http://localhost:4000/doing-deep-work/" rel="alternate" type="text/html" title="Doing deep work" /><published>2020-11-26T00:00:00-08:00</published><updated>2020-11-26T00:00:00-08:00</updated><id>http://localhost:4000/doing-deep-work</id><content type="html" xml:base="http://localhost:4000/doing-deep-work/">&lt;p&gt;Deep work refers to professional activities that you accomplish in a state of intense, undistracted focus. Deep work is valuable because it results in value creation and skill mastery.&lt;/p&gt;
 
 &lt;p&gt;Successfully cultivating a deep work habit involves effective deep work routines, concentration training, and shallow work management.&lt;/p&gt;
 
@@ -122,7 +122,7 @@
 
 &lt;h3 id=&quot;limit-context-switching&quot;&gt;Limit context switching&lt;/h3&gt;
 
-&lt;p&gt;Context switching imposes cognitive load on the brain through the concept of &lt;a href=&quot;https://www.bbc.com/worklife/article/20200130-the-life-hack-to-reduce-admin-and-carve-out-downtime&quot;&gt;attention residue&lt;/a&gt;. Whenever you switch tasks, a portion of your brain’s attention will still be processing the previous task.&lt;/p&gt;
+&lt;p&gt;Context switching imposes cognitive load on the brain through &lt;a href=&quot;https://www.bbc.com/worklife/article/20200130-the-life-hack-to-reduce-admin-and-carve-out-downtime&quot;&gt;attention residue&lt;/a&gt;. Whenever you switch tasks, a portion of your brain’s attention will still be processing the previous task.&lt;/p&gt;
 
 &lt;p&gt;You lose a little bit of performance every time you switch task contexts, however brief, which is why even a quick glance at social media leads to significance reductions in work performance.&lt;/p&gt;
 
@@ -136,23 +136,26 @@
 
 &lt;h3 id=&quot;schedule-quality-breaks&quot;&gt;Schedule quality breaks&lt;/h3&gt;
 
-&lt;p&gt;Breaks give you time to relax and rest your focus muscle. Additionally, scheduling breaks to look forward to can you help you stay motivated during a deep work session.&lt;/p&gt;
+&lt;p&gt;The more effectively you rest, the &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3334&quot;&gt;better equipped&lt;/a&gt; you are to focus in your next session. Additionally, scheduling breaks to look forward to can you help you stay motivated during a deep work session. By committing to high quality breaks, your work quality should improve significantly.&lt;/p&gt;
 
-&lt;p&gt;And the more effectively you rest, the better equipped you are to focus in your next session. By committing to high quality breaks, your work quality should improve significantly.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Make it easier for yourself to focus by scheduling breaks around your deep work.&lt;/strong&gt; &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3334&quot;&gt;Most breaks&lt;/a&gt; will result in a cognitive boost. For the best results, take &lt;a href=&quot;https://www.psychologytoday.com/us/blog/how-be-yourself/202006/7-strategies-maximize-break-while-working-home&quot;&gt;high quality breaks&lt;/a&gt; that &lt;a href=&quot;https://www.onlineschools.org/science-of-study-breaks/&quot;&gt;don’t involve screens, such as&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;Some guidelines on scheduling breaks: plan your breaks ahead of time, ideally when you’re scheduling your deep work. Consider stating what activity you intend to do during your break, to ensure you make the most of it. For the best results, try &lt;a href=&quot;https://www.onlineschools.org/science-of-study-breaks/&quot;&gt;not&lt;/a&gt; to use a screen:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110&quot;&gt;Take a movement break&lt;/a&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110&quot;&gt;Move&lt;/a&gt;
     &lt;ul&gt;
       &lt;li&gt;Walk&lt;/li&gt;
       &lt;li&gt;Stretch&lt;/li&gt;
       &lt;li&gt;Workout&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Attention_restoration_theory&quot;&gt;Change your scenery and go outside&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.sciencedaily.com/releases/2015/03/150320091315.htm&quot;&gt;Take a power nap&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Mindfulness activities&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Attention_restoration_theory&quot;&gt;Change your scenery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sciencedaily.com/releases/2015/03/150320091315.htm&quot;&gt;Nap&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Mindfulness activity
+    &lt;ul&gt;
+      &lt;li&gt;Meditation&lt;/li&gt;
+      &lt;li&gt;Chores&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;Read&lt;/li&gt;
   &lt;li&gt;Draw&lt;/li&gt;
   &lt;li&gt;Socialize&lt;/li&gt;
@@ -216,7 +219,7 @@
 
 &lt;p&gt;On the softer side, I want to hone the critical thinking necessary to identifying an important business problem, exploring that problem’s business/data context rigorously, and building an actionable solution. This is more important than mastering any technical skill.&lt;/p&gt;
 
-&lt;p&gt;As a rule, as I pursue this goal I will focus on active learning and deliberate practice, with building, drilling, and writing as my main processes for learning. I intend to reinforce anything I learn passively (via reading, coursework) through active learning. While this may lead to slower progress and greater effort on my end, I believe this will be most effective for long-term growth.&lt;/p&gt;
+&lt;p&gt;As I pursue this goal I will focus on deliberate and direct practice. My primary learning processes will be building, drilling, and writing. I intend to reinforce anything I learn passively (via reading, coursework) through active learning. While this may lead to slower progress and greater effort on my end, I believe this will be most effective for long-term growth.&lt;/p&gt;
 
 &lt;h2 id=&quot;2-build-great-learning-and-working-habits&quot;&gt;2. Build great learning and working habits&lt;/h2&gt;
 
@@ -234,7 +237,7 @@
 
 &lt;p&gt;As a more concrete goal, I’d like to accumulate a collection of mental models that I can refer to about how and why things happen, and tie these back into my life in some way. Maybe some of these can be a basis for a future project or career move in data science, and help me improve either my life or someone else’s life.&lt;/p&gt;
 
-&lt;p&gt;As a habit, I’ll aim to read a diverse range of non-fiction subjects – economics, psychology, biographies, history, science – and amass a centralized collection of written notes. This will be the foundation for connecting ideas between disciplines and brainstorming new ideas.&lt;/p&gt;</content><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><summary type="html">Why scrolling Blind is dangerous, and why setting personal goals is important</summary></entry><entry><title type="html">How to program and debug more effectively as a data scientist</title><link href="http://localhost:4000/programming-lessons/" rel="alternate" type="text/html" title="How to program and debug more effectively as a data scientist" /><published>2020-08-23T00:00:00-07:00</published><updated>2020-08-23T00:00:00-07:00</updated><id>http://localhost:4000/programming-lessons</id><content type="html" xml:base="http://localhost:4000/programming-lessons/">&lt;p&gt;Recently, I delivered my first software package, designed to automate some time-intensive calculations that are critical to my team’s data workflow. The process included more debug cycles than I care to admit, partly because of growing code complexity and evolving requirements, and partly because I could have planned and executed more effectively.&lt;/p&gt;
+&lt;p&gt;As a habit, I’ll aim to read a diverse range of non-fiction subjects – economics, psychology, philosophy, history, biographies/memoirs, science – and amass a centralized collection of written notes. This will be the foundation for connecting ideas between disciplines and developing new mental models.&lt;/p&gt;</content><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><summary type="html">Why scrolling Blind is dangerous, and why setting personal goals is important</summary></entry><entry><title type="html">How to program and debug more effectively as a data scientist</title><link href="http://localhost:4000/programming-lessons/" rel="alternate" type="text/html" title="How to program and debug more effectively as a data scientist" /><published>2020-08-23T00:00:00-07:00</published><updated>2020-08-23T00:00:00-07:00</updated><id>http://localhost:4000/programming-lessons</id><content type="html" xml:base="http://localhost:4000/programming-lessons/">&lt;p&gt;Recently, I delivered my first software package, designed to automate some time-intensive calculations that are critical to my team’s data workflow. The process included more debug cycles than I care to admit, partly because of growing code complexity and evolving requirements, and partly because I could have planned and executed more effectively.&lt;/p&gt;
 
 &lt;p&gt;After some reflection, here are some key lessons from that experience, which can help you write software more effectively as a data scientist.&lt;/p&gt;
 
