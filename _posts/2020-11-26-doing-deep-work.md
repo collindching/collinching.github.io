@@ -105,7 +105,7 @@ Make a long-term commitment to mental training, and follow best practices to tra
 
 ### Limit context switching
 
-Context switching imposes cognitive load on the brain through the concept of [attention residue](https://www.bbc.com/worklife/article/20200130-the-life-hack-to-reduce-admin-and-carve-out-downtime). Whenever you switch tasks, a portion of your brain's attention will still be processing the previous task. 
+Context switching imposes cognitive load on the brain through [attention residue](https://www.bbc.com/worklife/article/20200130-the-life-hack-to-reduce-admin-and-carve-out-downtime). Whenever you switch tasks, a portion of your brain's attention will still be processing the previous task. 
 
 You lose a little bit of performance every time you switch task contexts, however brief, which is why even a quick glance at social media leads to significance reductions in work performance.
 
@@ -123,15 +123,17 @@ Breaks give you time to relax and rest your focus muscle. Additionally, scheduli
 
 And the more effectively you rest, the better equipped you are to focus in your next session. By committing to high quality breaks, your work quality should improve significantly.
 
-**Make it easier for yourself to focus by scheduling breaks around your deep work.** [Most breaks](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3334) will result in a cognitive boost. For the best results, take [high quality breaks](https://www.psychologytoday.com/us/blog/how-be-yourself/202006/7-strategies-maximize-break-while-working-home) that [don't involve screens, such as](https://www.onlineschools.org/science-of-study-breaks/):
+**Make it easier for yourself to focus by scheduling breaks around your deep work.** [Most breaks](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3334) will result in a cognitive boost. For the best results, take [high quality breaks](https://www.psychologytoday.com/us/blog/how-be-yourself/202006/7-strategies-maximize-break-while-working-home) that [don't involve screens](https://www.onlineschools.org/science-of-study-breaks/):
 
-- [Take a movement break](https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110) 
+- [Move](https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110) 
     - Walk
     - Stretch
     - Workout
-- [Change your scenery and go outside](https://en.wikipedia.org/wiki/Attention_restoration_theory)
-- [Take a power nap](https://www.sciencedaily.com/releases/2015/03/150320091315.htm)
-- Mindfulness activities
+- [Change your scenery](https://en.wikipedia.org/wiki/Attention_restoration_theory)
+- [Nap](https://www.sciencedaily.com/releases/2015/03/150320091315.htm)
+- Mindfulness activity
+    - Meditation
+    - Chores
 - Read
 - Draw
 - Socialize
