@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Doing deep work"
-excerpt: "Strategies for working more effectively and efficiently"
+title: "Building a deep work habit"
+excerpt: "Strategies for working effectively from Cal Newport's _Deep Work_"
 ---
 
 Deep work refers to professional activities that you accomplish in a state of intense, undistracted focus. Deep work is valuable because it results in value creation and skill mastery.
