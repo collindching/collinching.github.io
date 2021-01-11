@@ -88,7 +88,9 @@ analytics:
 author:
   name             : "Collin Ching"
   avatar           : "./images/profile.png"
-  bio              : "Sharing thoughts on data science, growth, and learning"
+  bio              : "This is a place where I write on: \n 
+                      productivity, learning, problem solving, \n
+                      and data science"
   location         :
   email            : collindching@gmail.com
   links:
