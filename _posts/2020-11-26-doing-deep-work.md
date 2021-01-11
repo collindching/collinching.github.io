@@ -119,9 +119,9 @@ Social media and smartphones [hijack](https://now.northropgrumman.com/this-is-yo
 
 ### Schedule quality breaks
 
-The more effectively you rest, the [better equipped](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3334) you are to focus in your next session. Additionally, scheduling breaks to look forward to can you help you stay motivated during a deep work session. By committing to high quality breaks, your work quality should improve significantly.
+The more effectively you rest, the [better equipped](https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3334) you are to focus in your next session. Additionally, scheduling breaks to look forward to can you help you stay motivated during a deep work session. Taking high quality breaks will improve your quality of work.
 
-Some guidelines on scheduling breaks: plan your breaks ahead of time, ideally when you're scheduling your deep work. Consider stating what activity you intend to do during your break, to ensure you make the most of it. For the best results, try [not](https://www.onlineschools.org/science-of-study-breaks/) to use a screen:
+To get the most out of your breaks, (1) schedule when you'll take your breaks, and (2) plan what activity you'll do during your breaks. This ensures (a) optimal break timing and (b) optimal break quality. Do [not](https://www.onlineschools.org/science-of-study-breaks/) use a screen during your break:
 
 - [Move](https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110) 
     - Walk
