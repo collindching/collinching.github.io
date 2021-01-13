@@ -16,4 +16,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/doing-deep-work/",
         "teaser": null
+      },{
+        "title": "My habits for 2021",
+        "excerpt":"With Covid-19, the shift to remote work and distanced socializing, and the climax of radicalized politics, 2020 has been such an eventful year. I think the world has learned many lessons about work, social discourse, and politics, and that we will see lasting, positive change in these landscapes moving forward....","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/habits-for-2021/",
+        "teaser": null
       }]

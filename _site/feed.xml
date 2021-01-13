@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-10T23:21:41-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Collin Ching</title><subtitle>Source code for my blog</subtitle><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><entry><title type="html">Deep work principles</title><link href="http://localhost:4000/doing-deep-work/" rel="alternate" type="text/html" title="Deep work principles" /><published>2020-11-26T00:00:00-08:00</published><updated>2020-11-26T00:00:00-08:00</updated><id>http://localhost:4000/doing-deep-work</id><content type="html" xml:base="http://localhost:4000/doing-deep-work/">&lt;p&gt;Deep work refers to professional activities that you accomplish in a state of intense, undistracted focus. Deep work is valuable because it results in value creation and skill mastery.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-13T00:08:54-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Collin Ching</title><subtitle>Source code for my blog</subtitle><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><entry><title type="html">My habits for 2021</title><link href="http://localhost:4000/habits-for-2021/" rel="alternate" type="text/html" title="My habits for 2021" /><published>2021-01-12T00:00:00-08:00</published><updated>2021-01-12T00:00:00-08:00</updated><id>http://localhost:4000/habits-for-2021</id><content type="html" xml:base="http://localhost:4000/habits-for-2021/">&lt;p&gt;With Covid-19, the shift to remote work and distanced socializing, and the climax of radicalized politics, 2020 has been such an eventful year. I think the world has learned many lessons about work, social discourse, and politics, and that we will see lasting, positive change in these landscapes moving forward.&lt;/p&gt;
+
+&lt;p&gt;2020 has also been an eventful year at a personal level. In January, I traveled to India, where I met people who were different from me on paper, but similar to me in temperament, values, and personal drive. In February, I started my first data science role, where I worked at a FANG company and proved to be both a valuable and dependable resource. I experienced life in San Jose and San Francisco. I started reading and picked up journaling, and took care of a health issue – gout – that had been problematic for years. And then in December, I left my first data science role and started my second data science role.&lt;/p&gt;
+
+&lt;p&gt;I’m proud of what I’ve accomplished in 2020. But I want to take a moment to examine what I didn’t accomplish last year and why.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/goals-2020.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Of these goals, the only one I did was build a personal website. I aimed for 75% success, but achieved 25%. I have three hypotheses as to why.&lt;/p&gt;
+
+&lt;p&gt;First, my goals were too ambitious because I underestimated the amount of stress/time that my data science job demanded of me. Last spring, many nights saw me working furiously and anxiously to finish deliverables.&lt;/p&gt;
+
+&lt;p&gt;Secondly, I overestimated my motivation throughout the working week to accomplish these longer-term goals. But the problem here may have been systematic: my guess is that while I set lofty goals, I didn’t give myself enough positive and incremental feedback to stay motivated.&lt;/p&gt;
+
+&lt;p&gt;Third, I didn’t hold myself accountable to the processes that lead to goal attainment—I didn’t track my productive habits. I only tracked whether or not I had reached my goal.&lt;/p&gt;
+
+&lt;p&gt;To use an example, Cal Newport, author of Deep Work, tracks the hours he spends in a deep work state. By focusing on this, instead of whether or not he completes his task, he reframes his approach to productivity in two ways. First, he optimizes for the processes that lead to success. And second, he focuses on what he can objectively accomplish in the allotted time (spend 1 hour doing deep work) instead of working on an unpredictable goal (finishing a presentation with 1 hour of work).&lt;/p&gt;
+
+&lt;p&gt;So this year, I’m going to try something new. Instead of tracking my goals, I’m going to track my habits – if I can maintain these good habits, the results should follow. I’ll continue to keep goals, but by focusing on the process of achieving, I can be more accountable for my progress.&lt;/p&gt;
+
+&lt;h2 id=&quot;do-this-daily&quot;&gt;Do this daily&lt;/h2&gt;
+
+&lt;p&gt;My 2021 habits are centered around health, mental clarity, and personal development. To keep myself accountable to them, I’ve set up a database in Notion that tracks either (a) if I’ve done an activity, or  (b) how long I’ve spent on an activity. By the end of the day, I’ll build out some visualizations to reflect on how I’ve done with my habits. I’ve ordered them based on the order in the day in which I’ll do them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Eating oatmeal:&lt;/strong&gt; Morning ritual, keystone habit for better nutrition&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data science development:&lt;/strong&gt; An hour dedicated to focused learning – in the form of side projects or classes&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Journaling:&lt;/strong&gt; To set intentions, process thoughts, and set priorities&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Exercising:&lt;/strong&gt; For long-term health, and as a way to relax after the workday; prefer cardio when possible&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Meditating:&lt;/strong&gt; Improve concentration, lengthen attention span, reduce anxiety, develop calmness&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Writing:&lt;/strong&gt; Processing thoughts, developing opinions, and improving communication&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Learning Chinese:&lt;/strong&gt; Reconnecting with cultural heritage; primary actions will be to study vocabulary via Anki and pronunciation/grammar via iTalki&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Reading:&lt;/strong&gt; Learning about literally anything I find interesting – there is so much to learn&lt;/p&gt;
+
+&lt;h2 id=&quot;visions-for-the-end-of-2021&quot;&gt;Visions for the end of 2021&lt;/h2&gt;
+
+&lt;p&gt;If I am healthier, happier, and wiser by December, 2021 will have been a success. There are four buckets that I’d like to especially keep a tally on.&lt;/p&gt;
+
+&lt;h4 id=&quot;health&quot;&gt;Health&lt;/h4&gt;
+
+&lt;p&gt;Although 2020 was a year of health setbacks for me. I’ve learned a hard lesson that health is the single most important asset a person has. I want to look back on the year and feel that I’ve invested in my body, and left it in better shape than the previous year. The hope is that future Collin will be in good health and feel excited that he’s able to do, thanks to the investments of past Collin.&lt;/p&gt;
+
+&lt;h4 id=&quot;mental-clarity&quot;&gt;Mental clarity&lt;/h4&gt;
+
+&lt;p&gt;I want to reclaim my ability to do deep work, and be able to focus deeply, think clearly and creatively, and work calmly.&lt;/p&gt;
+
+&lt;h4 id=&quot;career&quot;&gt;Career&lt;/h4&gt;
+
+&lt;p&gt;I want to become a great data scientist, and feel confident in my ability to solve complex problems. By the end of the year, I want to prove that I am thoughtful, technical, and creative – and demonstrate this by example.&lt;/p&gt;
+
+&lt;p&gt;I want to invest in my problem solving skills and technical skills (coding + data) to support my goals as a data scientist, and to to set myself with a foundational skillset for future entrepreneurial pursuits.&lt;/p&gt;
+
+&lt;h4 id=&quot;chinese&quot;&gt;Chinese&lt;/h4&gt;
+
+&lt;p&gt;To reward myself for learning Chinese, I plan to visit China in fall of 2021, Covid pending. The hope is that I’ll be able to read menus, interact with locals, and experience the country deeply. Ultimately, I’d like to make the most of reconnecting with my cultural heritage.&lt;/p&gt;</content><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><summary type="html">Committing to consistency in personal health, mental and career development, and learning Chinese</summary></entry><entry><title type="html">Deep work principles</title><link href="http://localhost:4000/doing-deep-work/" rel="alternate" type="text/html" title="Deep work principles" /><published>2020-11-26T00:00:00-08:00</published><updated>2020-11-26T00:00:00-08:00</updated><id>http://localhost:4000/doing-deep-work</id><content type="html" xml:base="http://localhost:4000/doing-deep-work/">&lt;p&gt;Deep work refers to professional activities that you accomplish in a state of intense, undistracted focus. Deep work is valuable because it results in value creation and skill mastery.&lt;/p&gt;
 
 &lt;p&gt;Successfully cultivating a deep work habit involves effective deep work routines, concentration training, and shallow work management.&lt;/p&gt;
 
@@ -136,9 +196,9 @@
 
 &lt;h3 id=&quot;schedule-quality-breaks&quot;&gt;Schedule quality breaks&lt;/h3&gt;
 
-&lt;p&gt;The more effectively you rest, the &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3334&quot;&gt;better equipped&lt;/a&gt; you are to focus in your next session. Additionally, scheduling breaks to look forward to can you help you stay motivated during a deep work session. By committing to high quality breaks, your work quality should improve significantly.&lt;/p&gt;
+&lt;p&gt;The more effectively you rest, the &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3334&quot;&gt;better equipped&lt;/a&gt; you are to focus in your next session. Additionally, scheduling breaks to look forward to can you help you stay motivated during a deep work session. Taking high quality breaks will improve your quality of work.&lt;/p&gt;
 
-&lt;p&gt;Some guidelines on scheduling breaks: plan your breaks ahead of time, ideally when you’re scheduling your deep work. Consider stating what activity you intend to do during your break, to ensure you make the most of it. For the best results, try &lt;a href=&quot;https://www.onlineschools.org/science-of-study-breaks/&quot;&gt;not&lt;/a&gt; to use a screen:&lt;/p&gt;
+&lt;p&gt;To get the most out of your breaks, (1) schedule when you’ll take your breaks, and (2) plan what activity you’ll do during your breaks. This ensures (a) optimal break timing and (b) optimal break quality. Do &lt;a href=&quot;https://www.onlineschools.org/science-of-study-breaks/&quot;&gt;not&lt;/a&gt; use a screen during your break:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110&quot;&gt;Move&lt;/a&gt;
