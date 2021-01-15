@@ -29,7 +29,7 @@ But deep work is not something that comes easily; it requires effective routines
     - Use a fixed productivity schedule
     - Communicate efficiently
 
-In the end, my hope is that I can refer to this page frequently to remind myself how to maintain a thriving deep work habit.
+My goal with this page is to provide a gain so that you can maintain a maintain a deep work habit and reap the rewards of doing so.
 
 
 ## Build deep work routines
