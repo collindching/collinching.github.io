@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-13T00:08:54-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Collin Ching</title><subtitle>Source code for my blog</subtitle><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><entry><title type="html">My habits for 2021</title><link href="http://localhost:4000/habits-for-2021/" rel="alternate" type="text/html" title="My habits for 2021" /><published>2021-01-12T00:00:00-08:00</published><updated>2021-01-12T00:00:00-08:00</updated><id>http://localhost:4000/habits-for-2021</id><content type="html" xml:base="http://localhost:4000/habits-for-2021/">&lt;p&gt;With Covid-19, the shift to remote work and distanced socializing, and the climax of radicalized politics, 2020 has been such an eventful year. I think the world has learned many lessons about work, social discourse, and politics, and that we will see lasting, positive change in these landscapes moving forward.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-15T08:29:10-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Collin Ching</title><subtitle>Source code for my blog</subtitle><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><entry><title type="html">My habits for 2021</title><link href="http://localhost:4000/habits-for-2021/" rel="alternate" type="text/html" title="My habits for 2021" /><published>2021-01-12T00:00:00-08:00</published><updated>2021-01-12T00:00:00-08:00</updated><id>http://localhost:4000/habits-for-2021</id><content type="html" xml:base="http://localhost:4000/habits-for-2021/">&lt;p&gt;With Covid-19, the shift to remote work and distanced socializing, and the climax of radicalized politics, 2020 has been such an eventful year. I think the world has learned many lessons about work, social discourse, and politics, and that we will see lasting, positive change in these landscapes moving forward.&lt;/p&gt;
 
 &lt;p&gt;2020 has also been an eventful year at a personal level. In January, I traveled to India, where I met people who were different from me on paper, but similar to me in temperament, values, and personal drive. In February, I started my first data science role, where I worked at a FANG company and proved to be both a valuable and dependable resource. I experienced life in San Jose and San Francisco. I started reading and picked up journaling, and took care of a health issue – gout – that had been problematic for years. And then in December, I left my first data science role and started my second data science role.&lt;/p&gt;
 
@@ -18,25 +18,31 @@
 
 &lt;p&gt;So this year, I’m going to try something new. Instead of tracking my goals, I’m going to track my habits – if I can maintain these good habits, the results should follow. I’ll continue to keep goals, but by focusing on the process of achieving, I can be more accountable for my progress.&lt;/p&gt;
 
-&lt;h2 id=&quot;do-this-daily&quot;&gt;Do this daily&lt;/h2&gt;
+&lt;h2 id=&quot;daily-habits&quot;&gt;Daily habits&lt;/h2&gt;
 
 &lt;p&gt;My 2021 habits are centered around health, mental clarity, and personal development. To keep myself accountable to them, I’ve set up a database in Notion that tracks either (a) if I’ve done an activity, or  (b) how long I’ve spent on an activity. By the end of the day, I’ll build out some visualizations to reflect on how I’ve done with my habits. I’ve ordered them based on the order in the day in which I’ll do them.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Eating oatmeal:&lt;/strong&gt; Morning ritual, keystone habit for better nutrition&lt;/p&gt;
+&lt;h3 id=&quot;morning-habits&quot;&gt;Morning habits&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Data science development:&lt;/strong&gt; An hour dedicated to focused learning – in the form of side projects or classes&lt;/p&gt;
+&lt;p&gt;To complete all these rituals, I need to wake up two hours priod to starting the workday, which also means sleeping early enough to get &amp;gt;8 hours of sleep.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Journaling:&lt;/strong&gt; To set intentions, process thoughts, and set priorities&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Eating oatmeal:&lt;/strong&gt; A morning ritual to anchor my nutrition and serve as a reminder to eat healthy foods&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Exercising:&lt;/strong&gt; For long-term health, and as a way to relax after the workday; prefer cardio when possible&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Journaling:&lt;/strong&gt; A 15-minute session each morning set aside for reflection, processing, and setting intentions and priorities&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Meditating:&lt;/strong&gt; Improve concentration, lengthen attention span, reduce anxiety, develop calmness&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learning hour:&lt;/strong&gt; An hour dedicated to personal development – primarily in learning data science/investing or in building projects&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Writing:&lt;/strong&gt; Processing thoughts, developing opinions, and improving communication&lt;/p&gt;
+&lt;h3 id=&quot;evening-habits&quot;&gt;Evening habits&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Learning Chinese:&lt;/strong&gt; Reconnecting with cultural heritage; primary actions will be to study vocabulary via Anki and pronunciation/grammar via iTalki&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exercising:&lt;/strong&gt; A 30-minute session immediately following the end of the workday, to cue the transition to the second half of my day&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Reading:&lt;/strong&gt; Learning about literally anything I find interesting – there is so much to learn&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Writing:&lt;/strong&gt; A 20-minute session for expounding on the things I’m learning, working on, or thinking about for my personal blog – this is an opportunity to dive deeply, process thoughts, develop informed opinions, and improve my communication&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Learning Chinese:&lt;/strong&gt; A 15-minute session to practice vocabulary via Anki or a 30-minute session to speak with a teacher on iTalki&lt;/p&gt;
+
+&lt;h3 id=&quot;nighttime-habits&quot;&gt;Nighttime habits&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Reading:&lt;/strong&gt; Pre-bed routine as a way to unwind and expand my worldview – this is an opportunity to learn about anything that I find interesting&lt;/p&gt;
 
 &lt;h2 id=&quot;visions-for-the-end-of-2021&quot;&gt;Visions for the end of 2021&lt;/h2&gt;
 
@@ -58,13 +64,17 @@
 
 &lt;h4 id=&quot;chinese&quot;&gt;Chinese&lt;/h4&gt;
 
-&lt;p&gt;To reward myself for learning Chinese, I plan to visit China in fall of 2021, Covid pending. The hope is that I’ll be able to read menus, interact with locals, and experience the country deeply. Ultimately, I’d like to make the most of reconnecting with my cultural heritage.&lt;/p&gt;</content><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><summary type="html">Committing to consistency in personal health, mental and career development, and learning Chinese</summary></entry><entry><title type="html">Deep work principles</title><link href="http://localhost:4000/doing-deep-work/" rel="alternate" type="text/html" title="Deep work principles" /><published>2020-11-26T00:00:00-08:00</published><updated>2020-11-26T00:00:00-08:00</updated><id>http://localhost:4000/doing-deep-work</id><content type="html" xml:base="http://localhost:4000/doing-deep-work/">&lt;p&gt;Deep work refers to professional activities that you accomplish in a state of intense, undistracted focus. Deep work is valuable because it results in value creation and skill mastery.&lt;/p&gt;
+&lt;p&gt;To reward myself for learning Chinese, I plan to visit China in fall of 2021, Covid pending. The hope is that I’ll be able to read menus, interact with locals, and experience the country deeply. Ultimately, I’d like to make the most of reconnecting with my cultural heritage.&lt;/p&gt;</content><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><summary type="html">Committing to consistency in health and personal development</summary></entry><entry><title type="html">Deep work principles</title><link href="http://localhost:4000/doing-deep-work/" rel="alternate" type="text/html" title="Deep work principles" /><published>2020-11-26T00:00:00-08:00</published><updated>2020-11-26T00:00:00-08:00</updated><id>http://localhost:4000/doing-deep-work</id><content type="html" xml:base="http://localhost:4000/doing-deep-work/">&lt;p&gt;Deep work refers to the set of professional activities that you accomplish in a state of intense, undistracted focus. The ability to consistently accomplish deep work is important because it allows you to&lt;/p&gt;
 
-&lt;p&gt;Successfully cultivating a deep work habit involves effective deep work routines, concentration training, and shallow work management.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Learn things quickly&lt;/li&gt;
+  &lt;li&gt;Master difficult skills&lt;/li&gt;
+  &lt;li&gt;Solve meaningful and interesting problems&lt;/li&gt;
+  &lt;li&gt;Become a valuable asset in today’s economy&lt;/li&gt;
+  &lt;li&gt;Derive satisfaction from crafting quality work and attaining flow&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;In &lt;a href=&quot;https://www.calnewport.com/books/deep-work/&quot;&gt;&lt;em&gt;Deep Work&lt;/em&gt;&lt;/a&gt;, Cal Newport shares four principles for cultivating a deep work habit. You can read them &lt;a href=&quot;https://blog.doist.com/deep-work/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I simplified and repurposed his principles to apply them in my life. My takeaways from &lt;em&gt;Deep Work&lt;/em&gt; are:&lt;/p&gt;
+&lt;p&gt;But deep work is not something that comes easily; it requires effective routines, concentration training, and management of shallow work to maintain the habit. Cal Newport shares &lt;a href=&quot;https://blog.doist.com/deep-work/&quot;&gt;four guiding principles&lt;/a&gt; principles that help cultivate a deep work habit in &lt;a href=&quot;https://www.calnewport.com/books/deep-work/&quot;&gt;&lt;em&gt;Deep Work&lt;/em&gt;&lt;/a&gt;, which I’ve reframed for use in my own life as a lifelong learner and problem solver:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Build deep work routines&lt;/strong&gt;
@@ -91,6 +101,8 @@
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;My goal with this page is to provide a gain so that you can maintain a maintain a deep work habit and reap the rewards of doing so.&lt;/p&gt;
 
 &lt;h2 id=&quot;build-deep-work-routines&quot;&gt;Build deep work routines&lt;/h2&gt;
 

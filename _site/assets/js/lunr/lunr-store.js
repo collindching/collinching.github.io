@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Deep work principles",
-        "excerpt":"Deep work refers to professional activities that you accomplish in a state of intense, undistracted focus. Deep work is valuable because it results in value creation and skill mastery. Successfully cultivating a deep work habit involves effective deep work routines, concentration training, and shallow work management. In Deep Work, Cal...","categories": [],
+        "excerpt":"Deep work refers to the set of professional activities that you accomplish in a state of intense, undistracted focus. The ability to consistently accomplish deep work is important because it allows you to Learn things quickly Master difficult skills Solve meaningful and interesting problems Become a valuable asset in today’s...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/doing-deep-work/",
         "teaser": null
