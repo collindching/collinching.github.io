@@ -4,13 +4,15 @@ title: "Deep work principles"
 excerpt: "Strategies for working effectively, from Cal Newport's _Deep Work_"
 ---
 
-Deep work refers to professional activities that you accomplish in a state of intense, undistracted focus. Deep work is valuable because it results in value creation and skill mastery.
+Deep work refers to the set of professional activities that you accomplish in a state of intense, undistracted focus. The ability to consistently accomplish deep work is important because it allows you to 
 
-Successfully cultivating a deep work habit involves effective deep work routines, concentration training, and shallow work management. 
+1. Learn things quickly
+2. Master difficult skills
+3. Solve meaningful and interesting problems
+4. Become a valuable asset in today's economy 
+5. Derive satisfaction from crafting quality work and attaining flow
 
-In [_Deep Work_](https://www.calnewport.com/books/deep-work/), Cal Newport shares four principles for cultivating a deep work habit. You can read them [here](https://blog.doist.com/deep-work/). 
-
-I simplified and repurposed his principles to apply them in my life. My takeaways from _Deep Work_ are:
+But deep work is not something that comes easily; it requires effective routines, concentration training, and management of shallow work to maintain the habit. Cal Newport shares [four guiding principles](https://blog.doist.com/deep-work/) principles that help cultivate a deep work habit in [_Deep Work_](https://www.calnewport.com/books/deep-work/), which I've reframed for use in my own life as a lifelong learner and problem solver:
 
 - **Build deep work routines**
     - Use a scheduling method 
@@ -26,6 +28,9 @@ I simplified and repurposed his principles to apply them in my life. My takeaway
     - Schedule every minute of your day
     - Use a fixed productivity schedule
     - Communicate efficiently
+
+In the end, my hope is that I can refer to this page frequently to remind myself how to maintain a thriving deep work habit.
+
 
 ## Build deep work routines
 
