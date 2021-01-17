@@ -88,9 +88,10 @@ analytics:
 author:
   name             : "Collin Ching"
   avatar           : "./images/profile.png"
-  bio              : "A space where I think/write about <br>
-                      productivity, learning, problem solving, <br>
-                      problems, books, and data science"
+  bio              : "A space where I think about <br>
+                      productivity + learning, <br>
+                      problems + problem solving, <br>
+                      books, and data science"
   location         :
   email            : collindching@gmail.com
   links:
@@ -269,6 +270,7 @@ defaults:
       share: false
       related: false
       mathjax: true
+      show_date: true
   # _pages
   - scope:
       path: ""
