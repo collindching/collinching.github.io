@@ -4,15 +4,30 @@ title: "Deep work principles"
 excerpt: "Strategies for working effectively, from Cal Newport's _Deep Work_"
 ---
 
-Deep work refers to the set of professional activities that you accomplish in a state of intense, undistracted focus. The ability to consistently accomplish deep work is important because it allows you to 
+Deep work, a term coined by Cal Newport, refers to all the professional activities that you accomplish in a state of intense and undistracted focus. The ability to do deep work is important because it enables you to: 
 
 1. Learn things quickly
 2. Master difficult skills
 3. Solve meaningful and interesting problems
-4. Become a valuable asset in today's economy 
-5. Derive satisfaction from crafting quality work and attaining flow
+4. Become a valuable (and well-compensated) asset 
+5. Derive satisfaction from accomplishing quality work and achieving flow flow
 
-But deep work is not something that comes easily; it requires effective routines, concentration training, and management of shallow work to maintain the habit. Cal Newport shares [four guiding principles](https://blog.doist.com/deep-work/) principles that help cultivate a deep work habit in [_Deep Work_](https://www.calnewport.com/books/deep-work/), which I've reframed for use in my own life as a lifelong learner and problem solver:
+## Why I read _Deep Work_
+
+I first read _Deep Work_ back in 2019,  as I was starting my data science career. I thought that reading about deep work would give me insight into how I could develop valuable skills and build interesting projects in service of getting hired. 
+
+At that time, my biggest takeaway was to track the hours I spent working deeply (a process goal which Cal Newport described as a leading indicator of success), rather than tracking goal achievement (a lagging indicator of success). By focusing on the process, I was able to consistently invest hours in my data science skills, professional portfolio, and job applications, despite not immediately receiving the outcomes I strived for. Of course, I got a job.
+
+Now that my career is underway, my motivations for revisitng _Deep Work_ have evolved. I still want to further develop my skills as a data scientist. I have also been zooming out lately, and thinking about problems that I want to solve in the future.
+
+But to be able to solve those problems later on, I have to grow my knowledge, skills, and track record today. I believe a deep work system provides the foundation for all three -- rapid learning, skill mastery, and timely and thorough execution.
+
+What I've gleaned is that a good deep work system involves routines, training, and distraction management, which I describe in the rest of this post. If you are interested in systematizing your focus, I highly recommend this book for you. 
+
+
+## Overview of deep work principles
+
+Deep work does not occur easily; it requires effective routines, training, and work management to achieve. management of shallow work to maintain the habit. Cal Newport shares [four guiding principles](https://blog.doist.com/deep-work/) principles that help cultivate a deep work habit in [_Deep Work_](https://www.calnewport.com/books/deep-work/), which I've reframed for use in my own life as a lifelong learner and problem solver:
 
 - **Build deep work routines**
     - Use a scheduling method 
