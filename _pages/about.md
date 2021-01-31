@@ -45,10 +45,11 @@ Consistently prioritize active learning in your journey -- through written synth
 
 ## Problem solving framework
 
-1. Contextualize: Gather problem details, define goal, ask key questions, read research
-2. Strategize: Define subproblems, prioritize tasks, and plan next actions
-3. Implement: Carry out your plan
-4. Adjust: Evaluate success, analyze outcomes, determine necessary changes
+1. Contextualize
+2. Observe 
+3. Strategize
+4. Implement
+5. Adjust
 
 ## Positive psychology
 

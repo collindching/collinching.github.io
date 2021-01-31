@@ -12,9 +12,9 @@ var store = [{
         "teaser": null
       },{
         "title": "Deep work principles",
-        "excerpt":"Deep work refers to the set of professional activities that you accomplish in a state of intense, undistracted focus. The ability to consistently accomplish deep work is important because it allows you to Learn things quickly Master difficult skills Solve meaningful and interesting problems Become a valuable asset in today’s...","categories": [],
+        "excerpt":"Deep work, a term coined by Cal Newport, refers to all the professional activities that you accomplish in a state of intense and undistracted focus. The ability to do deep work is important because it enables you to: Learn things quickly Master difficult skills Solve meaningful and interesting problems Become...","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/doing-deep-work/",
+        "url": "http://localhost:4000/deep-work-principles/",
         "teaser": null
       },{
         "title": "My habits for 2021",
