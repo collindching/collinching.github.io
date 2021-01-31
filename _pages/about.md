@@ -48,7 +48,7 @@ Consistently prioritize active learning in your journey -- through written synth
 1. Contextualize
 2. Observe 
 3. Strategize
-4. Implement
+4. Execute
 5. Adjust
 
 ## Positive psychology
