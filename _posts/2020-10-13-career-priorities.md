@@ -10,7 +10,7 @@ _Am I paid enough? Can I get paid more? How do I raise my salary to y dollars? W
 
 I spent an entire week thinking only about making more money, until it occurred to me that salary is only one metric, and it may not be the most important one. I am not just a rat in a rat race, and my value as a human being is not how much money I make.  
 
- _What is important to me? What do I want out of my next job? What problems do I care about and want to solve? What makes me a happy?_
+ _What is important to me? What do I want out of my next job? What problems do I want to solve?_
 
 I reflected on the questions above and realized that, while compensation is important, learning and skill development is more important to me. I also realized that I haven't articulated to myself what problems I care about working on.  
 
