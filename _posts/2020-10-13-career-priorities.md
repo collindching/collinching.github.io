@@ -6,23 +6,23 @@ excerpt: "Why scrolling Blind is dangerous, and why setting personal goals is im
 
 I've been creeping on Blind lately, an app where software engineers and data scientists share their compensation packages from major tech companies. And while it is fun to see what my peers earn, scrolling through posts has also been stressful.
 
-_Am I paid enough? Can I get paid more? My life would be so much better if I had x more dollars. How do I raise my salary to y dollars? What company, which skills, what projects should I focus on to get more money?_ 
+_Am I paid enough? Can I get paid more? How do I raise my salary to y dollars? What company, which skills, what projects should I focus on to get more money?_ 
 
-I probably spent an entire week thinking solely about making more money, until it occurred to me that I hadn't assessed how important salary was to me. 
+I spent an entire week thinking only about making more money, until it occurred to me that salary is only one metric, and it may not be the most important one. I am not just a rat in a rat race, and my value as a human being is not how much money I make.  
 
- _How important is money to me right now? What do I want out of my next job? What problems am I interested in solving? What do I want from life, in general?_
+ _What is important to me? What do I want out of my next job? What problems do I care about and want to solve? What makes me a happy?_
 
-I reflected on the questions above and realized that, while compensation was a top priority for people posting on Blind, skill development has been a higher short-term priority for me. Comparing myself to others on the basis on compensation reduced my worth to a single number that didn't do my efforts jutstice. 
+I reflected on the questions above and realized that, while compensation is important, learning and skill development is more important to me. I also realized that I haven't articulated to myself what problems I care about working on.  
 
-This brings me to the point of this post: it's important to evaluate and record your career priorities and reasons for having them. Doing so forces you to consider what matters to you thoughtfully. And in times of doubt, having a record of your priorities can be helpful reminder to stick to your plan.
+This brings me to the point of this post: it's important to evaluate and record your career priorities and reasons for having them. This forces you to thoughtfully reflect on what matters to you. In times of doubt, having this record of your priorities can be helpful reminder to stay your course.
 
 With that in mind, here are my priorities as of October 2020.
 
-## 1. Master data science skills
+## 1. Learn and master data science skills
 
-I am currently prioritizing skill mastery over career advancement. Given the option to either grow my skills or receive a salary bump, I'm will forego a short-term salary increase if it means quicker growth as a data professional. In the mid-term and long-term, good career advancement opportunities should follow as a lagging measure of skill mastery.  
+My top priority is learning and skill mastery, even over nominal career advancement. If I have to choose between a learning opportunity and receiving a salary bump/title bump at the cost of learning, I will gladly choose the path of greater personal and technical growth. With this decision, career advancement opportunities will follow in the long run.  
 
-My number 1 priority is to **master technical skills** and **critical thinking** necessary to do great data science. 
+My number 1 priority is to **learn and master the technical skills and critical thinking** necessary for great data science. 
 
 On technical skill development, I'm interested in learning statistical, ML, or programming concepts as they apply to driving high-impact business decisions or products. I have a lot on my learning wishlist, but topics that I want to tackle with greater depth are SQL, basics of data engineering, modeling techniques and ML algorithms, methods of model deployment, experimentation methods, and causal inference. 
 
@@ -32,18 +32,18 @@ As I pursue this goal I will focus on deliberate and direct practice. My primary
 
 ## 2. Build great learning and working habits
 
-Since learning will be crucial for my personal and career development, I am convinced that optimizing my learning habits would pay huge dividends. In studying the art of learning, my goal is to collect strategies that can lead to a lifetime of more efficient and effective learning. 
+Since learning is crucial for my personal and career development, I believe that optimizing my learning habits will lead to huge and compounding long-term returns. I plan to study the art and science of learning to collate personal strategies lead to a lifetime of more efficient and more effective learning. 
 
 Primarily, I'll be studying recurring behaviors that top performers use to achieve their goals, writing down their principles and habits, and applying and refining a strategy that works best for myself. 
 
 My process for accomplishing this goal will be reading and summarizing books about learning, capturing the key strategies on my personal blog, and then keeping myself accountable to the habits that are most important.
 
-I am very excited about this priority and how it will affect my life outside of just work.
+I am very excited about this priority and believe it will improve my life in all aspects -- not just work.
 
-## 3. Learn how the world operates
+## 3. Learn how the world works
 
-Abstractly, I'd like to learn how the world works and how people operate both as individuals and as members of systems. Reading and reflecting on these questions will hopefully help me discover questions that matter to me.
+I'd like to learn how the world works and how people operate as individuals and as part of a larger collective. Reading and reflecting on these questions will hopefully help me discover questions that matter to me.
 
-As a more concrete goal, I'd like to accumulate a collection of mental models that I can refer to about how and why things happen, and tie these back into my life in some way. Maybe some of these can be a basis for a future project or career move in data science, and help me improve either my life or someone else's life. 
+As a more concrete goal, I'd like to accumulate a collection of mental models to help me understand how and why things happen, and tie these back into my life later on. Some of these might be a basis for a future project or career move in data science. But the end state is that this helps me improve my life and someone else's life. 
 
-As a habit, I'll aim to read a diverse range of non-fiction subjects -- economics, psychology, philosophy, history, biographies/memoirs, science -- and amass a centralized collection of written notes. This will be the foundation for connecting ideas between disciplines and developing new mental models. 
+As a habit, I'll read a diverse range of non-fiction subjects -- economics, psychology, philosophy, history, biographies/memoirs, science -- and amass a centralized collection of written notes. This will be the foundation for connecting ideas between disciplines and developing new mental models. 
