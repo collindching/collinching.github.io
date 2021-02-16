@@ -88,10 +88,7 @@ analytics:
 author:
   name             : "Collin Ching"
   avatar           : "./images/profile.png"
-  bio              : "A space where I think about <br>
-                      productivity + learning, <br>
-                      problems + problem solving, <br>
-                      books, and data science"
+  bio              : "A space to think freely"
   location         :
   email            : collindching@gmail.com
   links:

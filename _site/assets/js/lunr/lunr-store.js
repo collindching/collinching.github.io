@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "My career priorities (October 2020)",
-        "excerpt":"I’ve been creeping on Blind lately, an app where software engineers and data scientists share their compensation packages from major tech companies. And while it is fun to see what my peers earn, scrolling through posts has also been stressful. Am I paid enough? Can I get paid more? My...","categories": [],
+        "excerpt":"I’ve been creeping on Blind lately, an app where software engineers and data scientists share their compensation packages from major tech companies. And while it is fun to see what my peers earn, scrolling through posts has also been stressful. Am I paid enough? Can I get paid more? How...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/career-priorities/",
         "teaser": null
