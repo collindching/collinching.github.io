@@ -45,8 +45,8 @@ Consistently prioritize active learning in your journey -- through written synth
 
 ## Problem solving framework
 
-1. Contextualize
-2. Observe 
+1. Explore
+2. Ask questions 
 3. Strategize
 4. Execute
 5. Adjust
