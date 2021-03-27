@@ -87,7 +87,7 @@ analytics:
 # Site Author
 author:
   name             : "Collin Ching"
-  avatar           : "./images/profile.png"
+  avatar           : "./assets/images/profile.png"
   bio              : "A blog dedicated to exploring data and productivity, and better understanding the world"
   location         :
   email            : collindching@gmail.com
