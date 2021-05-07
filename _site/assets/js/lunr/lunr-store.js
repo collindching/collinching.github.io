@@ -22,4 +22,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/habits-for-2021/",
         "teaser": null
+      },{
+        "title": "Don't just think; think, then act",
+        "excerpt":"I have been engrossed with the notion of learning lately. I believe learning opens doors and expands the realm of what’s possible. Thinking and learning is important. But knowledge is worthless until applied. Don’t let your learning go to waste - whatever it is you’re learning, take that new knowledge...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/think-then-act/",
+        "teaser": null
       }]
