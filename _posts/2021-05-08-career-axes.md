@@ -15,14 +15,20 @@ This is my core technical skillset and primary source of income. I want to conti
 In my current role, the vital areas for my growth as a data scientist are
 
 - project management
-- data validation intuition and methodology
-- improving data exploration skillset
-- metric evaluation and design 
-- experiment design 
-- bootstrapping and simulation for experiments
-- clustering
-- learning statistics distributions and hypothesis tests
-- applying Bayesian statistics
+- data exploration
+  - data validation intuition and methodology
+  - data visualization workflow
+- experiments
+  - metric evaluation and design 
+  - experiment design 
+  - bootstrapping and simulation for experiments
+  - learning statistics distributions and hypothesis tests
+  - applying Bayesian statistics
+- statistical modeling
+  - clustering
+  - intepretable machine learning
+  - regression methods
+
 
 I believe my main focuses should be the first four bullets. I think this are most critical to my performance in my current work. 
 
@@ -36,14 +42,17 @@ Machine learning products allows us to offer decision-making at scale, in the fo
 
 In general, the skills needed for this type of work include
 
-- software engineering
-- data extraction
-- building data pipelines
-- machine learning
-- deep learning
-- building dashboard data visualizations
-- model monitoring
-- model deployment
+- data fundamentals
+  - software engineering
+  - data extraction
+  - building data pipelines
+- data models
+  - machine learning
+  - deep learning
+  - building data dashboards
+- devops
+  - model monitoring
+  - model deployment
 
 I would like to prioritize my efforts on software engineering, building data pipelines, and learning machine learning and deep learning.
 
