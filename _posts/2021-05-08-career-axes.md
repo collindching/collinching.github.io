@@ -16,7 +16,7 @@ In my current role, the vital areas for my growth as a data scientist are
 
 - project management
 - data exploration
-  - data validation intuition and methodology
+  - data validation methodology
   - data visualization workflow
 - experiments
   - metric evaluation and design 
@@ -24,6 +24,7 @@ In my current role, the vital areas for my growth as a data scientist are
   - bootstrapping and simulation for experiments
   - learning statistics distributions and hypothesis tests
   - applying Bayesian statistics
+- PySpark
 - statistical modeling
   - clustering
   - intepretable machine learning
