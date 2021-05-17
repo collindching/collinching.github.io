@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Axes of growth in my ongoing career education"
+title: "Axes of growth in my career"
 excerpt: "The current roadmap for my self-driven career learning"
 ---
 
