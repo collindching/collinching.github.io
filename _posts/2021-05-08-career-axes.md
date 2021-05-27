@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Axes of growth in my career"
+title: "Career growth axes"
 excerpt: "The current roadmap for my self-driven career learning"
 ---
 
-In my continuing career education this year, there are three main axes of growth that I want to pursue: data science, machine learning, and product/entrepreneurship. These are my thoughts on what I'd like to learn, and I'd like to revisit this post in December to evaluate my progress. 
+In my continuing career education this year, there are three main axes of growth that I want to pursue: data science, software engineering, and product entrepreneurship. These are my thoughts on what I'd like to learn, and I'd like to revisit this post in December to evaluate my progress. 
 
 ### Doing data science
 
@@ -33,35 +33,31 @@ In my current role, the vital areas for my growth as a data scientist are
 
 I believe my main focuses should be the first four bullets. I think this are most critical to my performance in my current work. 
 
-### Building data science products
+### Software engineering
 
-Data science products are products that can be automated, packaged, and sold to customers. Rather than ad-hoc recommendations, they are services that improve decision-making workflows. Examples include data dashboards and machine learning (and deep learning) products.
+Software is essentially a service that can be automated, packaged, and sold to customers at scale. This might include data products that improve decision making workflows, or some other tool that makes people's lives easier. 
 
-Dashboards empower consumers to make smart decisions quickly by giving them visual access to many data points at a glance. The value-add of dashboards is the selection of data points used, and how intuitively they are represented. 
-
-Machine learning products allows us to offer decision-making at scale, in the form automation. Machine learning is the best way I can think of to use my current skillset and turn it into a income-producing product.
+One day, I would love to learn to build some software that leverages machine learning to help people make decisions at scale. Machine learning is the best way that I can use my current skillset to create an income-generating product.
 
 In general, the skills needed for this type of work include
 
-- data fundamentals
-  - software engineering
-  - data extraction
-  - building data pipelines
+- software engineering
+  - web development
+  - backend data engineering
+    - data extraction
+    - building data pipelines
 - data models
   - machine learning
-  - deep learning
   - building data dashboards
 - devops
   - model monitoring
   - model deployment
 
-I would like to prioritize my efforts on software engineering, building data pipelines, and learning machine learning and deep learning.
+I would like to prioritize my efforts on software engineering, data engineering, and machine learning pipelines.
 
-### Product/entrepreneurship
+### Product
 
-You can't start a company with technical skills alone - building a business involves a deep understanding of product, labor, and consumers. I believe starting a business is incredibly multidisciplinary, and requires multidisciplinary learning. 
-
-There are so many things I want to learn, but off the top of my head, I'd like to learn how to
+You can't start a company with technical skills alone - building a business involves a deep understanding of product, labor, and consumers. To build a good startup, you need to understand product well. I want to learn how to
 
 - come up with an idea
 - understand product-market fit
