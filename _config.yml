@@ -88,7 +88,7 @@ analytics:
 author:
   name             : "Collin Ching"
   avatar           : "./assets/images/profile.png"
-  bio              : "A blog dedicated to learning, thinking, and doing"
+  bio              : "A data analyst's blog dedicated to learning, doing, and reflecting"
   location         :
   email            : collindching@gmail.com
   links:

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-16T17:37:19-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Collin Ching</title><subtitle>Source code for my blog</subtitle><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><entry><title type="html">Axes of growth in my career</title><link href="http://localhost:4000/career-axes/" rel="alternate" type="text/html" title="Axes of growth in my career" /><published>2021-05-08T00:00:00-07:00</published><updated>2021-05-08T00:00:00-07:00</updated><id>http://localhost:4000/career-axes</id><content type="html" xml:base="http://localhost:4000/career-axes/">&lt;p&gt;In my continuing career education this year, there are three main axes of growth that I want to pursue: data science, machine learning, and product/entrepreneurship. These are my thoughts on what I’d like to learn, and I’d like to revisit this post in December to evaluate my progress.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-09-08T21:18:55-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Collin Ching</title><subtitle>Source code for my blog</subtitle><author><name>Collin Ching</name><email>collindching@gmail.com</email></author><entry><title type="html">Career growth axes</title><link href="http://localhost:4000/career-axes/" rel="alternate" type="text/html" title="Career growth axes" /><published>2021-05-08T00:00:00-07:00</published><updated>2021-05-08T00:00:00-07:00</updated><id>http://localhost:4000/career-axes</id><content type="html" xml:base="http://localhost:4000/career-axes/">&lt;p&gt;In my continuing career education this year, there are three main axes of growth that I want to pursue: data science, software engineering, and product entrepreneurship. These are my thoughts on what I’d like to learn, and I’d like to revisit this post in December to evaluate my progress.&lt;/p&gt;
 
 &lt;h3 id=&quot;doing-data-science&quot;&gt;Doing data science&lt;/h3&gt;
 
@@ -37,28 +37,29 @@
 
 &lt;p&gt;I believe my main focuses should be the first four bullets. I think this are most critical to my performance in my current work.&lt;/p&gt;
 
-&lt;h3 id=&quot;building-data-science-products&quot;&gt;Building data science products&lt;/h3&gt;
+&lt;h3 id=&quot;software-engineering&quot;&gt;Software engineering&lt;/h3&gt;
 
-&lt;p&gt;Data science products are products that can be automated, packaged, and sold to customers. Rather than ad-hoc recommendations, they are services that improve decision-making workflows. Examples include data dashboards and machine learning (and deep learning) products.&lt;/p&gt;
+&lt;p&gt;Software is essentially a service that can be automated, packaged, and sold to customers at scale. This might include data products that improve decision making workflows, or some other tool that makes people’s lives easier.&lt;/p&gt;
 
-&lt;p&gt;Dashboards empower consumers to make smart decisions quickly by giving them visual access to many data points at a glance. The value-add of dashboards is the selection of data points used, and how intuitively they are represented.&lt;/p&gt;
-
-&lt;p&gt;Machine learning products allows us to offer decision-making at scale, in the form automation. Machine learning is the best way I can think of to use my current skillset and turn it into a income-producing product.&lt;/p&gt;
+&lt;p&gt;One day, I would love to learn to build some software that leverages machine learning to help people make decisions at scale. Machine learning is the best way that I can use my current skillset to create an income-generating product.&lt;/p&gt;
 
 &lt;p&gt;In general, the skills needed for this type of work include&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;data fundamentals
+  &lt;li&gt;software engineering
     &lt;ul&gt;
-      &lt;li&gt;software engineering&lt;/li&gt;
-      &lt;li&gt;data extraction&lt;/li&gt;
-      &lt;li&gt;building data pipelines&lt;/li&gt;
+      &lt;li&gt;web development&lt;/li&gt;
+      &lt;li&gt;backend data engineering
+        &lt;ul&gt;
+          &lt;li&gt;data extraction&lt;/li&gt;
+          &lt;li&gt;building data pipelines&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;data models
     &lt;ul&gt;
       &lt;li&gt;machine learning&lt;/li&gt;
-      &lt;li&gt;deep learning&lt;/li&gt;
       &lt;li&gt;building data dashboards&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -70,13 +71,11 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;I would like to prioritize my efforts on software engineering, building data pipelines, and learning machine learning and deep learning.&lt;/p&gt;
+&lt;p&gt;I would like to prioritize my efforts on software engineering, data engineering, and machine learning pipelines.&lt;/p&gt;
 
-&lt;h3 id=&quot;productentrepreneurship&quot;&gt;Product/entrepreneurship&lt;/h3&gt;
+&lt;h3 id=&quot;product&quot;&gt;Product&lt;/h3&gt;
 
-&lt;p&gt;You can’t start a company with technical skills alone - building a business involves a deep understanding of product, labor, and consumers. I believe starting a business is incredibly multidisciplinary, and requires multidisciplinary learning.&lt;/p&gt;
-
-&lt;p&gt;There are so many things I want to learn, but off the top of my head, I’d like to learn how to&lt;/p&gt;
+&lt;p&gt;You can’t start a company with technical skills alone - building a business involves a deep understanding of product, labor, and consumers. To build a good startup, you need to understand product well. I want to learn how to&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;come up with an idea&lt;/li&gt;

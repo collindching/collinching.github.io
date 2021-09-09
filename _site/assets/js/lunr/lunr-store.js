@@ -29,8 +29,8 @@ var store = [{
         "url": "http://localhost:4000/think-then-act/",
         "teaser": null
       },{
-        "title": "Axes of growth in my career",
-        "excerpt":"In my continuing career education this year, there are three main axes of growth that I want to pursue: data science, machine learning, and product/entrepreneurship. These are my thoughts on what I’d like to learn, and I’d like to revisit this post in December to evaluate my progress. Doing data...","categories": [],
+        "title": "Career growth axes",
+        "excerpt":"In my continuing career education this year, there are three main axes of growth that I want to pursue: data science, software engineering, and product entrepreneurship. These are my thoughts on what I’d like to learn, and I’d like to revisit this post in December to evaluate my progress. Doing...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/career-axes/",
         "teaser": null
