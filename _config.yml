@@ -19,7 +19,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "collindching/collindching.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #'./images/c.png'
-masthead_title           : Collin's Blog # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Blog" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -86,9 +86,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Collin Ching"
-  avatar           : "./assets/images/profile.png"
-  bio              : "A data analyst's blog dedicated to learning, doing, and reflecting"
+  name             : "Collin"
+  avatar           : "./assets/images/calvin-n-hobbes.png"
+  bio              : "Writing is thinking"
   location         :
   email            : collindching@gmail.com
   links:
